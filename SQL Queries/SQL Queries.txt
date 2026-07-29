@@ -1,0 +1,124 @@
+# 1. Retrieve All Movies by a Specific Director
+
+SELECT main_file.MovieName
+
+FROM main_file
+
+JOIN modified_director ON main_file.DirectorId = modified_director.DirectorId
+
+WHERE modified_director.DirectorName = 'Isao Takahata'; -- Replace 'Director Name' with actual director name
+ 
+# 2. Count Movies in Each Genre
+
+SELECT genre1.GenreName, COUNT(main_file.MovieName) AS MovieCount
+
+FROM main_file
+
+JOIN genre1 ON main_file.GenreId = genre1.GenreId
+
+GROUP BY genre1.GenreName;
+
+# 3. Distribution of Movies Across Different Data Sources
+
+SELECT data_source.DataSource, COUNT(main_file.MovieName) AS MovieCount
+
+FROM main_file
+
+JOIN data_source ON main_file.DataSourceId = data_source.DataSourceId
+
+GROUP BY data_source.DataSource;
+
+# 4. Find Directors Who Work in a Specific Genre
+
+SELECT modified_director.DirectorName
+
+FROM main_file
+
+JOIN modified_director ON main_file.DirectorId = modified_director.DirectorId
+
+JOIN genre1 ON main_file.GenreId = genre1.GenreId
+
+WHERE genre1.GenreName = 'Action'
+
+GROUP BY modified_director.DirectorName;
+ 
+ 
+SELECT Genre.GenreName, COUNT(main_file.MovieName) AS TotalMovies
+
+FROM Genre
+
+JOIN Movie ON Genre.GenreId = Movie.GenreId
+
+GROUP BY Genre.GenreName
+
+ORDER BY TotalMovies DESC;
+ 
+select * from rating;
+ 
+SELECT genre1.GenreName, COUNT(main_file.MovieName) AS MovieCount, AVG(rating.Rating) AS AverageRating
+
+FROM main_file
+
+JOIN genre1 ON main_file.GenreId = genre1.GenreId
+
+JOIN rating ON main_file.RatingId = rating.RatingId
+
+GROUP BY genre1.GenreName
+
+ORDER BY AverageRating DESC;
+ 
+# dIRECTOR NAME AND MOVIES DIRECTED
+
+SELECT modified_director.DirectorName, COUNT(main_file.MovieName) AS MoviesDirected
+
+FROM main_file
+
+JOIN modified_director ON main_file.DirectorId = modified_director.DirectorId
+
+GROUP BY modified_director.DirectorName
+
+ORDER BY MoviesDirected DESC;
+ 
+#AS PER THE DIRECTORS AND GENRE MOVIE COUNT
+
+SELECT modified_director.DirectorName, genre1.GenreName, COUNT(main_file.MovieName) AS MovieCount
+
+FROM main_file
+
+JOIN modified_director ON main_file.DirectorId = modified_director.DirectorId
+
+JOIN genre1 ON main_file.GenreId = genre1.GenreId
+
+GROUP BY modified_director.DirectorName, genre1.GenreName
+
+ORDER BY modified_director.DirectorName, MovieCount DESC;
+ 
+#AS PER THE DATA SOURCE AND GENRE NAME COUNT THE MOVIE COUNT
+
+SELECT data_source.DataSource, genre1.GenreName, COUNT(*) AS MovieCount
+
+FROM main_file
+
+JOIN genre1 ON main_file.GenreId = genre1.GenreId
+
+JOIN data_source ON main_file.DataSourceId = data_source.DataSourceId
+
+GROUP BY data_source.DataSource, genre1.GenreName
+
+ORDER BY data_source.DataSource, MovieCount DESC;
+ 
+ 
+#AS PER THE SITE GENRE VARIETYS
+
+SELECT data_source.DataSource, COUNT(DISTINCT genre1.GenreName) AS GenreVariety
+
+FROM main_file
+
+JOIN genre1 ON main_file.GenreId = genre1.GenreId
+
+JOIN data_source ON main_file.DataSourceId = data_source.DataSourceId
+
+GROUP BY data_source.DataSource
+
+ORDER BY GenreVariety DESC;
+ 

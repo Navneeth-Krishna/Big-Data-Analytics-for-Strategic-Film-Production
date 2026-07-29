@@ -1,0 +1,964 @@
+director,genre,image,rating,release_date,runtime,title
+Isao Takahata,"Animation,Drama,War",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/k9tv1rXZbOhH7eiCk378x61kNQ1.jpg,85,1991,1h 29m,Grave of the Fireflies
+Sunghoo Park,"Animation,Action,Fantasy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/23oJaeBh0FDk2mQ2P240PU9Xxfh.jpg,82,2022,1h 45m,Jujutsu Kaisen 0
+Ernesto Contreras,"Family,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/t2Ew8NZ8Ci2kqmoecZUNQUFDJnQ.jpg,85,2021,1h 28m,Impossible Things
+Tate Taylor,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7XLSwxpfpPoJyTdJVot6a42TS2V.jpg,82,2011,2h 26m,The Help
+Lee Unkrich,"Family,Animation,Music,Adventure",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gGEsBPAijhVUFoiNpgZXqRVWJt2.jpg,82,2017,1h 45m,Coco
+Guel Arraes,"Comedy,Drama,Fantasy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/imcOp1kJsCsAFCoOtY5OnPrFbAf.jpg,84,2000,1h 44m,A Dog's Will
+Akira Kurosawa,"Drama,Crime,Mystery",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/tgNjemQPG96uIezpiUiXFcer5ga.jpg,83,1963,2h 22m,High and Low
+Shouko Nakamura,"Romance,Animation",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cIfRCA5wEvj9tApca4UDUagQEiM.jpg,85,2016,1h 1m,Dou kyu sei – Classmates
+Ingmar Bergman,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/iyTD2QnySNMPUPE3IedZQipSWfz.jpg,81,2005,1h 31m,Wild Strawberries
+Taylor Hackford,"Crime,Action,Drama,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gvP6R6juhe2IpCG7QGDgjyUvm0g.jpg,81,1993,3h 10m,Bound by Honor
+Mathieu Kassovitz,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8rgPyWjYZhsphSSxbXguMnhN7H0.jpg,81,1996,1h 38m,La Haine
+Rob Reiner,"Romance,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6zDYFigohwncqFL00MKbFV01dWb.jpg,80,2011,1h 29m,Flipped
+Lasse Hallström,"Drama,Family",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lsy3aEsEfYIHdLRk4dontZ4s85h.jpg,80,2010,1h 33m,Hachi: A Dog's Tale
+Ethan Spaulding,"Animation,Action,Fantasy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4VlXER3FImHeFuUjBShFamhIp9M.jpg,81,2020,1h 20m,Mortal Kombat Legends: Scorpion's Revenge
+Paul Dugdale,"Music,Documentary",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cvBVd5DwAwYOakF0U1qsYdysQ08.jpg,81,2020,1h 37m,"ariana grande: excuse me, i love you"
+Quentin Tarantino,"Action,Crime,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nxbv9TPXrIpRKB5xQh6atWXAkPM.jpg,80,2011,4h 7m,Kill Bill: The Whole Bloody Affair
+Nick Schenk,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/zUybYvxWdAJy5hhYovsXtHSWI1l.jpg,80,2009,1h 56m,Gran Torino
+John Lasseter,"Animation,Adventure,Family,Comedy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg,80,1995,1h 21m,Toy Story
+Emeric Pressburger,"Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5NuMQd17KZx0lCxedJoIuFnt7li.jpg,80,1949,2h 13m,The Red Shoes
+Rosana Sullivan,"Animation,Family,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/mwKO3cZbxipgd9QAPboJVTDLPiN.jpg,80,2019,9m,Kitbull
+Kenji Mizoguchi,"Fantasy,Drama,Mystery",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7Kk1ZsrAul2Lg7Pe45XOcUf2ARQ.jpg,80,1953,1h 36m,Ugetsu
+Steven Spielberg,"Drama,Crime",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg,80,2003,2h 21m,Catch Me If You Can
+James Gunn,"Science Fiction,Adventure,Action",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg,80,2023,2h 30m,Guardians of the Galaxy Vol. 3
+Jang Hang-jun,"Thriller,Mystery,Crime",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cBgj41y1RvmW1zJCEX0uNWL0UjW.jpg,80,2017,1h 48m,Forgotten
+John Huston,"Adventure,Drama,Western",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pWcst7zVbi8Z8W6GFrdNE7HHRxL.jpg,80,1948,2h 6m,The Treasure of the Sierra Madre
+Alan Parker,"Music,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/aElHyIdF5jmctFGhlhhaPFsbBJC.jpg,80,1982,1h 35m,Pink Floyd: The Wall
+Matthew López,"Comedy,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dD3vhyDRCCT90hf4rldHU6Wu3Va.jpg,80,2023,2h 1m,"Red, White & Royal Blue"
+Hayao Miyazaki,"Adventure,Fantasy,Animation,Action,Family,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/41XxSsJc5OrulP0m7TrrUeO2hoz.jpg,80,1996,2h 5m,Castle in the Sky
+Andrei Tarkovsky,"Drama,History",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/AttDP5OEsMxtHPPN7Z92p2Ntnmd.jpg,80,1975,1h 47m,Mirror
+Alfred Hitchcock,"Mystery,Thriller,Adventure",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/25mAKNWgFQSqpKdVx7e9mysuxs.jpg,80,1959,2h 16m,North by Northwest
+Wong Kar-wai,"Drama,Comedy,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/43I9DcNoCzpyzK8JCkJYpHqHqGG.jpg,80,1995,1h 43m,Chungking Express
+Anthony McCarten,"Music,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg,80,2018,2h 15m,Bohemian Rhapsody
+Satyajit Ray,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2pZR9zmUzsblDLE5ndBe57ScqIi.jpg,80,1955,2h 5m,Song of the Little Road
+Federico Fellini,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xF4oCG3PLNbcrtPZbqB3BtkIbKg.jpg,80,1957,1h 50m,Nights of Cabiria
+Diego Freitas,"Romance,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/AlAP6WRSBuf5cP8OgpHTF45BPUp.jpg,80,2022,2h 6m,Beyond the Universe
+Amole Gupte,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fwXhw9bERqKrJfJK6WGakPIh3FS.jpg,80,2009,2h 42m,Like Stars on Earth
+Lee Hae-jun,"Drama,Comedy,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gGzovvmOEyNVUu4WEHtw9wfDsqI.jpg,80,2009,1h 59m,Castaway on the Moon
+Kang Je-kyu,"Action,Adventure,Drama,History,War",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vyG8qpimh3XSlxc6OmPq8LJRJl.jpg,80,2024,2h 28m,Tae Guk Gi: The Brotherhood of War
+Sam Mendes,"War,Action,Drama,History",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/iZf0KyrE25z1sage4SYFLCCrMi9.jpg,80,2020,1h 59m,1917
+Esteban Bravo,"Animation,Romance,Comedy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wJUJROdLOtOzMixkjkx1aaZGSLl.jpg,80,2017,4m,In a Heartbeat
+Rajkumar Hirani,"Drama,Comedy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/66A9MqXOyVFCssoloscw79z8Tew.jpg,80,2009,2h 50m,3 Idiots
+Charlie Chaplin,"Comedy,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3FywbVq2qGqbYHPCy2NJcOf0gmp.jpg,80,1928,1h 12m,The Circus
+Roberto Rossellini,"Drama,History,War",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ijGV4v8JxgbNzgEhqKdzHdaZn8a.jpg,80,1948,1h 43m,"Rome, Open City"
+Jennie Livingston,Documentary,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3P1CqwwCqgwETklacItjUmNR2tf.jpg,80,1992,1h 18m,Paris Is Burning
+Hirokazu Kore-eda,"Mystery,Thriller,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kvUJUyUGOhEoiWWNH04IXoExPE2.jpg,80,2023,2h 5m,Monster
+John Kahrs,"Animation,Family,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6MXYNvGmI63W8fI3HKlcZzEy1U5.jpg,80,2012,7m,Paperman
+David Lean,"Adventure,History,War",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/AiAm0EtDvyGqNpVoieRw4u65vD1.jpg,80,1963,3h 48m,Lawrence of Arabia
+Juan José Campanella,"Mystery,Thriller,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dkeAwfZzwL3WvToydE3CXiY80E0.jpg,80,2010,2h 10m,The Secret in Their Eyes
+Charlie Chaplin,"Adventure,Comedy,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/eQRFo1qwRREYwj47Yoe1PisgOle.jpg,80,1976,1h 35m,The Gold Rush
+Morgan Neville,Documentary,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8qE8NZjiP2M884baH0VoLF828Vp.jpg,80,2018,1h 35m,Won't You Be My Neighbor?
+Morten Tyldum,"History,Drama,Thriller,War",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/zSqJ1qFq8NXFfi7JeIYMlzyR0dx.jpg,80,2014,1h 53m,The Imitation Game
+Robert Mulligan,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gZycFUMLx2110dzK3nBNai7gfpM.jpg,80,1963,2h 9m,To Kill a Mockingbird
+James Mangold,"Drama,Action,History",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg,80,2019,2h 33m,Ford v Ferrari
+Makoto Shinkai,"Animation,Drama,Fantasy,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/qgrk7r1fV4IjuoeiGS5HOhXNdLJ.jpg,80,2019,1h 52m,Weathering with You
+Yasujirō Ozu,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/iNtRSY2AGjW1VDXDR79bKsNUdus.jpg,80,1949,1h 50m,Late Spring
+Garth Davis,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/iBGRbLvg6kVc7wbS8wDdVHq6otm.jpg,81,2017,1h 58m,Lion
+Natalie Nourigat,"Animation,Family",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/39oaQUS0KxyXL6KYJ2o2u03PpHz.jpg,81,2021,7m,Far from the Tree
+Martin McDonagh,"Crime,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pZRhqJj0DBy4ghB7g6pU7MGHsWJ.jpg,81,2018,1h 55m,"Three Billboards Outside Ebbing, Missouri"
+Stanley Kubrick,"Science Fiction,Mystery,Adventure",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg,81,1968,2h 29m,2001: A Space Odyssey
+Akira Kurosawa,"Action,Drama,History",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jQnUtWaHYfqnXPOIf77K7Ycqk4M.jpg,81,1986,2h 40m,Ran
+Buster Keaton,"Action,Comedy,Mystery",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/1G9r3rqtbFAQuyWKOZm4Y5J5s7Q.jpg,81,1924,45m,Sherlock Jr.
+Kurt Kuenne,"Documentary,Crime",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bVJCQfIfNC01CYOVkvBOtrY1cxy.jpg,81,2008,1h 35m,Dear Zachary: A Letter to a Son About His Father
+Isao Takahata,"Animation,Drama,Fantasy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cQidJuA546OSSXKWXoiCeINDxuj.jpg,81,2014,2h 17m,The Tale of The Princess Kaguya
+Russell Mulcahy,"Drama,History,TV Movie",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/1viFwXluAettogGDsTrSUUg29lZ.jpg,81,2009,1h 30m,Prayers for Bobby
+Joe Wright,"Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/sGjIvtVvTlWnia2zfJfHz81pZ9Q.jpg,81,2005,2h 7m,Pride & Prejudice
+Jim Donovan,"Drama,TV Movie,Crime",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/qbJEzCzEKDHPZDiRvSSBiYEKaAH.jpg,81,2018,1h 38m,Believe Me: The Abduction of Lisa McVey
+Fritz Lang,"Drama,Thriller,Crime",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bTdZk3q2DWpBRnLiaaItKFWOVhI.jpg,81,1963,1h 51m,M
+Ron Fricke,Documentary,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/qodkea4k0pNUmNTl5TJO2PdTqgW.jpg,81,2012,1h 42m,Samsara
+Paul Thomas Anderson,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fa0RDkAlCec0STeMNAhPaF89q6U.jpg,81,2008,2h 38m,There Will Be Blood
+Akira Kurosawa,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/iYNH3Re0JSypoYaWvZtERUnNaJL.jpg,81,1965,3h 5m,Red Beard
+Akira Kurosawa,"Crime,Drama,Mystery",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vL7Xw04nFMHwnvXRFCmYYAzMUvY.jpg,81,1952,1h 28m,Rashomon
+Wolfgang Petersen,"Drama,History,War",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/spE9nbdqhoKoTaCNp4H9Tj6Xcrm.jpg,81,1982,2h 30m,Das Boot
+Andrew Stanton,"Animation,Family,Science Fiction",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg,81,2008,1h 38m,WALL·E
+Wong Kar-wai,"Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/iYypPT4bhqXfq1b6EnmxvRt6b2Y.jpg,81,2001,1h 38m,In the Mood for Love
+Guillermo del Toro,"Animation,Fantasy,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg,81,2022,1h 57m,Guillermo del Toro's Pinocchio
+Asif Kapadia,Documentary,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nZbLCbRoP6iJq5sr8daHQzjnzFh.jpg,81,2010,1h 46m,Senna
+Arturo Brachetti,Comedy,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/y3hEulMYSTQuvmI5jBTyWrcvJQX.jpg,81,1996,2h,I corti
+Oriol Paulo,"Drama,Mystery,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fptnZJbLzKUHeNlYrAynbyoL5YJ.jpg,81,2018,1h 47m,The Invisible Guest
+Zhao Ji,"Animation,Action,Fantasy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/sezNkk9HifNJW3pC5SU2XqMKgSJ.jpg,81,2021,1h 56m,New Gods: Nezha Reborn
+Christopher Nolan,"Drama,History",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg,81,2023,3h 1m,Oppenheimer
+James Cameron,"Action,Thriller,Science Fiction",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5M0j0B18abtBI5gi2RhfjjurTqb.jpg,81,1991,2h 17m,Terminator 2: Judgment Day
+Stanley Kubrick,"Comedy,War",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7SixLzxcqezkZEYU8pcHZgbkmjp.jpg,81,1964,1h 35m,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+Elizabeth Allen Rosenbaum,"Romance,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4JyNWkryifWbWXJyxcWh3pVya6N.jpg,81,2022,2h 2m,Purple Hearts
+Thomas Astruc,"Animation,TV Movie,Fantasy,Action",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9YbyvcrHmY2SVbdfXpb8mC4Fy0g.jpg,81,2020,1h 1m,"Miraculous World: New York, United HeroeZ"
+Billy Wilder,"Crime,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/n8Mfx7JNbj6lo24laFL1sZYEKHs.jpg,81,1944,1h 47m,Double Indemnity
+Piero De Bernardi,Comedy,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8Pm8SLjq2UHCwisd56ipHtzvZI1.jpg,81,1975,2h 20m,My Friends
+Guy Ritchie,"Comedy,Crime",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wt2TRBmFmBn5M5MBcPTwovlREaB.jpg,81,1998,1h 45m,"Lock, Stock and Two Smoking Barrels"
+Florian Zeller,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pr3bEQ517uMb5loLvjFQi8uLAsp.jpg,81,2021,1h 36m,The Father
+Stanley Kubrick,"Drama,War",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg,81,1987,1h 57m,Full Metal Jacket
+Céline Sciamma,"Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2LquGwEhbg3soxSCs9VNyh5VJd9.jpg,81,2019,2h,Portrait of a Lady on Fire
+Quentin Tarantino,"Crime,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg,81,1993,1h 39m,Reservoir Dogs
+George Tillman Jr.,"Crime,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2icwBom0t5nmOuZI9FVXF3gkMK0.jpg,81,2018,2h 13m,The Hate U Give
+Ettore Scola,"Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jzRn7N1mFowkQ5IkUkfWoxXJtYU.jpg,80,1977,1h 46m,A Special Day
+J. A. Bayona,"Drama,History",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2e853FDVSIso600RqAMunPxiZjq.jpg,80,2024,2h 24m,Society of the Snow
+François Truffaut,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/12PuU23kkDLvTd0nb8hMlE3oShB.jpg,80,2003,1h 39m,The 400 Blows
+Pete Docter,"Animation,Family,Comedy,Fantasy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hm58Jw4Lw8OIeECIq5qyPYhAeRJ.jpg,81,2024,1h 41m,Soul
+Can Ulkay,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cmru6N6Hnw2pJwuo1ctH1CxKqKZ.jpg,80,2021,1h 36m,Paper Lives
+José Padilha,"Drama,Action,Crime",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lwIXz785N2fXi8hsBr1IXciFlkM.jpg,81,2009,1h 55m,Elite Squad
+Peter Mortimer,"Documentary,Adventure",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bZQCNGb1II5eWASBhEgJBGxOPUM.jpg,81,2018,1h 41m,The Dawn Wall
+Noé Santillán-López,Comedy,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/oSbCdDI0SAAOdywGe0YVO2iDdV9.jpg,81,2020,1h 33m,"Veinteañera, divorciada y fantástica"
+W. Bruce Cameron,"Family,Adventure,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wquJChp0NpoqthYdE3YjXNNxvVC.jpg,81,2019,1h 49m,A Dog's Journey
+Wes Anderson,"Comedy,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg,81,2014,1h 40m,The Grand Budapest Hotel
+Jeanne Herry,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/zIgyDGsmIyMAf0ppg7QKTuIM1He.jpg,81,2023,1h 55m,All Your Faces
+Tony Cervone,"Family,Animation,Comedy,Mystery",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nTkQZPXZl9yx3tfPS9TSDZBdhHC.jpg,81,2015,1h 19m,Scooby-Doo! and KISS: Rock and Roll Mystery
+John Carpenter,"Horror,Mystery,Science Fiction",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/tzGY49kseSE9QAKk47uuDGwnSCu.jpg,81,1982,1h 49m,The Thing
+Luchino Visconti,"Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pngL8AraChIDOiWnKF2o3S9kJzJ.jpg,81,1960,2h 58m,Rocco and His Brothers
+Theodore Melfi,"Drama,History",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9lfz2W2uGjyow3am00rsPJ8iOyq.jpg,81,2017,2h 7m,Hidden Figures
+Jang Hoon,"Action,Drama,History",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/iXVaWbxmyPk4KZGZk5GGDGFieMX.jpg,81,2018,2h 18m,A Taxi Driver
+Bong Joon-ho,"Crime,Drama,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jcgUjx1QcupGzjntTVlnQ15lHqy.jpg,81,2003,2h 11m,Memories of Murder
+Can Ulkay,"Drama,War,History",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8RELLU0RK9hRIteLzHFZ0dK8YSi.jpg,81,2018,2h 5m,Ayla: The Daughter of War
+Sandro Petraglia,"Drama,History,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jKFeWrVshmFj8uG056O4tT5ZNTE.jpg,81,2003,6h 6m,The Best of Youth
+Hayao Miyazaki,"Fantasy,Animation,Family",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rtGDOeG9LzoerkDGZF9dnVeLppL.jpg,81,1991,1h 26m,My Neighbor Totoro
+Bo Burnham,"Comedy,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ku1UvTWYvhFQbSesOD6zteY7bXT.jpg,81,2021,1h 27m,Bo Burnham: Inside
+Ingmar Bergman,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6beNbtCXv3GkzHkxkGYf38ib7v8.jpg,80,1978,1h 33m,Autumn Sonata
+Alfred Hitchcock,"Thriller,Crime",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2gDCAgl2iBQNuJuk6p2xtuS1ewg.jpg,80,1955,1h 45m,Dial M for Murder
+Emma Donoghue,"Drama,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dIxoYFcj6EqD5KScuU8lWCftnvH.jpg,80,2015,1h 58m,Room
+Sergio Leone,Western,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ooqASvA7qxlTVKL3KwOzBwy57Dh.jpg,80,2010,2h 12m,For a Few Dollars More
+George Roy Hill,"Comedy,Crime,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4VdQopZb0lx13Me3yxE5rUXMGCI.jpg,80,1974,2h 9m,The Sting
+Taika Waititi,"Comedy,War,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7GsM4mtM0worCtIVeiQt28HieeN.jpg,80,2019,1h 48m,Jojo Rabbit
+Raúl Martínez,Comedy,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/zvGC5jX5wQmU1GgPc0VGZz7Mtcs.jpg,80,2021,1h 26m,El mesero
+Tim Johnson,"Animation,Fantasy,Adventure,Action,Family",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kXj2Qrfm994yLeuADqbOieU1mUH.jpg,80,2019,22m,How to Train Your Dragon: Homecoming
+Florian Henckel von Donnersmarck,"Drama,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cVUDMnskSc01rdbyH0tLATTJUdP.jpg,80,2007,2h 17m,The Lives of Others
+Bo Burnham,"Comedy,Music",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dqHTk96sbQI2En5HJIsgelWi5Cv.jpg,80,2016,1h,Bo Burnham: Make Happy
+Anna Muylaert,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/u1tDQun2iJAzersd94S8P47WEOL.jpg,80,2015,1h 52m,The Second Mother
+Luis Buñuel,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cDCvmYoyqFg4CuSMtGMvCpfOIEw.jpg,80,1959,1h 22m,The Young and the Damned
+Martin Scorsese,"Crime,Drama,Comedy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/34m2tygAYBGqA9MXKhRDtzYd4MR.jpg,80,2014,3h,The Wolf of Wall Street
+Marc Webb,"Drama,Comedy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7YB2YrMwIm1g8FyZtlvmVDfRnAT.jpg,80,2017,1h 41m,Gifted
+Shibani Bathija,"Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5Y36lCiNyyV71mjq6LavgiggbhT.jpg,80,2010,2h 45m,My Name Is Khan
+Miloš Forman,"History,Music,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/1n5VUlCqgmVax1adxGZm8oCFaKc.jpg,80,1984,2h 40m,Amadeus
+Stanley Kramer,"Drama,War,History",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cqumfgd74ftVzOKJpFGOG64WlXL.jpg,80,1985,3h 11m,Judgment at Nuremberg
+Henri-Georges Clouzot,"Drama,Thriller,Adventure",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/y5iBurPvCvPfGukQUxlJHjazeZV.jpg,80,1977,2h 28m,The Wages of Fear
+David Lynch,"Drama,History",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3SInR81qnXjY7Or5qXyiQLmWfEh.jpg,80,1981,2h 4m,The Elephant Man
+Alessio Cremonini,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rwPgE6fLxuJmPWi8fFjgENJMAjr.jpg,80,2018,1h 40m,On My Skin
+Stanley Kubrick,"Drama,Romance,War",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dOJtBSyI30wWc08UmyEKLsu4Rfk.jpg,80,1975,3h 5m,Barry Lyndon
+Hugh Welchman,"Animation,Drama,Mystery,History",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/56sq57kDm7XgyXBYrgJLumo0Jac.jpg,80,2017,1h 35m,Loving Vincent
+Ashley Avis,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5ZjMNJJabwBEnGVQoR2yoMEL9um.jpg,80,2020,1h 50m,Black Beauty
+Martin Scorsese,"Crime,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4TS5O1IP42bY2BvgMxL156EENy.jpg,80,1996,2h 59m,Casino
+Daniel Rezende,"Comedy,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/1ddIxZW72MjnPA2cls8gCGMPp5d.jpg,80,2017,1h 53m,Bingo: The King of the Mornings
+Orson Welles,"Mystery,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg,80,1942,1h 59m,Citizen Kane
+Andrei Tarkovsky,"Drama,History",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/910xRIUmNJrWH2hkQifBJtoPp5R.jpg,80,1966,3h 25m,Andrei Rublev
+Tomm Moore,"Family,Animation,Fantasy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3DBX7QOEzWPNcDhqXInk6GBEvhK.jpg,80,2014,1h 33m,Song of the Sea
+Michael Cimino,"Drama,War",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9IoJFxE18kD3zDx6v2MBGOYYrFH.jpg,80,1979,3h 3m,The Deer Hunter
+Carl Theodor Dreyer,"Drama,History",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8OYGtQlO8k9PcOm49apV62eVJQo.jpg,80,1928,1h 22m,The Passion of Joan of Arc
+Alejandro Monteverde,"Action,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kSf9svfL2WrKeuK8W08xeR5lTn8.jpg,80,2023,2h 11m,Sound of Freedom
+Greg Berlanti,"Comedy,Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5YUYg5q7QfC4IoNwNUtiwdiYKPr.jpg,80,2018,1h 50m,"Love, Simon"
+Craig Gillespie,"Comedy,Crime",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wToO8opxkGwKgSfJ1JK8tGvkG6U.jpg,80,2021,2h 14m,Cruella
+Sam Mendes,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wby9315QzVKdW9BonAefg8jGTTb.jpg,80,2000,2h 2m,American Beauty
+Nicola Manzari,"Comedy,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rHsc35TLPliJAvbnmu8dvddiu96.jpg,80,1956,1h 41m,"Toto, Peppino, and the Hussy"
+Luigi Calagna,"Family,Fantasy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/sfeQTIRkJjWt8IPDSBcPqkrcaas.jpg,81,2020,1h 4m,Me Against You: Mr. S's Vendetta
+Darren Aronofsky,"Crime,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nOd6vjEmzCT0k4VYqsA2hwyi87C.jpg,80,2001,1h 42m,Requiem for a Dream
+Mario Monicelli,"Comedy,Crime",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/f5OxD8Nl0pR3DcYHtYhHRfpsmjl.jpg,81,1958,1h 46m,Big Deal on Madonna Street
+Olivier Dahan,"Drama,History",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yyN4d1pz2kd5TNSOKjdTU7aSn2e.jpg,80,2023,2h 20m,Simone: Woman of the Century
+Alfonso Cuarón,"Adventure,Fantasy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg,80,2004,2h 21m,Harry Potter and the Prisoner of Azkaban
+Kim Yong-hwa,"Action,Adventure,Drama,Fantasy,Thriller,Mystery",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gJSvIsI6oQfFim0PGyuuiCYfqKs.jpg,81,2018,2h 19m,Along with the Gods: The Two Worlds
+Denis Villeneuve,"Drama,Thriller,Crime",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/uhviyknTT5cEQXbn6vWIqfM4vGm.jpg,81,2013,2h 33m,Prisoners
+Federico Fellini,"Comedy,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2KU52apQyvyZuPsqEGMcWb4BKu2.jpg,81,1960,2h 56m,La Dolce Vita
+Marcel Carné,"Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yiy9stl1jjVhW44ypkWMFDT8Ix3.jpg,81,1945,3h 11m,Children of Paradise
+Thomas Vinterberg,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jkixsXzRh28q3PCqFoWcf7unghT.jpg,81,2013,1h 56m,The Hunt
+Michel Gondry,"Science Fiction,Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg,81,2004,1h 48m,Eternal Sunshine of the Spotless Mind
+David Yates,"Fantasy,Adventure",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/c54HpQmuwXjHq2C9wmoACjxoom3.jpg,81,2011,2h 10m,Harry Potter and the Deathly Hallows: Part 2
+Kenji Mizoguchi,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ffMCNNYiTCdkhMQoNSX17urqWiz.jpg,81,1954,2h 4m,Sansho the Bailiff
+Pablo Berger,"Animation,Drama,Comedy,Science Fiction",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vSzOobYVu16MogSALNg1bjTaGc.jpg,81,2023,1h 42m,Robot Dreams
+Billy Wilder,"Comedy,Romance,Crime",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hVIKyTK13AvOGv7ICmJjK44DTzp.jpg,81,1959,2h 2m,Some Like It Hot
+Wim Wenders,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/tgw3TJTWgNUYCgL5Pa546VVVvSU.jpg,81,1985,2h 25m,"Paris, Texas"
+Joseph L. Mankiewicz,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6numIZH6uR3NlJgY9m7nGH0jhs.jpg,81,1951,2h 19m,All About Eve
+Denis Villeneuve,"Drama,War,Mystery",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/i5GsLIII66LubmOai65cWiB4kZq.jpg,81,2011,2h 11m,Incendies
+Akira Kurosawa,"Drama,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/tN7kYPjRhDolpui9sc9Eq9n5b2O.jpg,81,2000,1h 50m,Yojimbo
+Juliano Ribeiro Salgado,Documentary,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jRmQNj8NacAHJnzwfvFvglKSGB6.jpg,81,2014,1h 50m,The Salt of the Earth
+Mario Monicelli,"Comedy,War,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/aDvKsUb5y7GMNMz2HHNtuGww5t8.jpg,81,1959,2h 17m,The Great War
+Takaomi Kanasaki,"Animation,Adventure,Comedy,Fantasy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fv5BgcfkpWh3V6Pb1qVlXESBOdl.jpg,81,2020,1h 30m,KONOSUBA – God's blessing on this wonderful world! Legend of Crimson
+Kim Yong-hwa,"Action,Adventure,Fantasy,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9BnqBHFGDv3WlCPB2qQwzAWdy7y.jpg,81,2018,2h 21m,Along with the Gods: The Last 49 Days
+Beyoncé,"Documentary,Music",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nKdP4K3Bj3qnjtDCq9lTg7UOHVy.jpg,81,2019,2h 17m,Homecoming: A Film by Beyoncé
+Luca Guadagnino,"Romance,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/mZ4gBdfkhP9tvLH1DO4m4HYtiyi.jpg,81,2017,2h 12m,Call Me by Your Name
+Fritz Lang,"Drama,Science Fiction",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pxbGZewX327IbTvrCVRJgcLJTSQ.jpg,81,1928,2h 29m,Metropolis
+Fisher Stevens,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xSDdRAjxKAGi8fUBLOqSrBhJmF0.jpg,81,2021,1h 50m,Palmer
+Peter Weir,"Comedy,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vuza0WqY239yBXOadKlGwJsZJFE.jpg,81,1998,1h 43m,The Truman Show
+Walter Salles,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/zJvp7XjQ2LhPbDVYhFXyucs40vR.jpg,81,1998,1h 53m,Central Station
+Stephen Chbosky,"Drama,Family",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/sONh3LYGFcVDTy8pm1tbSOB13Li.jpg,81,2017,1h 53m,Wonder
+Martin Scorsese,"Crime,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ekstpH614fwDX8DUln1a2Opz0N8.jpg,82,1976,1h 54m,Taxi Driver
+Francis Ford Coppola,"Drama,War",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg,83,1979,2h 27m,Apocalypse Now
+Jacques Becker,"Drama,Thriller,Crime",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8kxtOm7D992iAaOzUoWmNQwbXjs.jpg,83,1960,2h 12m,Le Trou
+Trent Correy,"Animation,Family,Fantasy,Comedy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/aiy3G1cYWV3LgKZHY6a3jL8bjYL.jpg,83,2023,9m,Once Upon a Studio
+Sergio Leone,"Drama,Western",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/qbYgqOczabWNn2XKwgMtVrntD6P.jpg,83,1970,2h 46m,Once Upon a Time in the West
+Charlie Chaplin,"Comedy,Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/uEMekS25hwXrCJOZZ3NKMGcAFJo.jpg,83,1938,1h 27m,Modern Times
+Charlie Chaplin,"Comedy,Romance,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bXNvzjULc9jrOVhGfjcc64uKZmZ.jpg,83,1931,1h 27m,City Lights
+Satoshi Kon,"Animation,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bee6ZQVaSAUhlBinsP9In8x8vO1.jpg,83,2001,1h 22m,Perfect Blue
+Luc Besson,"Crime,Drama,Action",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yI6X2cCM5YPJtxMhUd3dPGqDAhw.jpg,83,1995,1h 51m,Léon: The Professional
+Billy Wilder,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/sC4Dpmn87oz9AuxZ15Lmip0Ftgr.jpg,83,1950,1h 50m,Sunset Boulevard
+Hideaki Anno,"Animation,Science Fiction,Action,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/j6G24dqI4WgUtChhWjfnI4lnmiK.jpg,83,2004,1h 27m,Neon Genesis Evangelion: The End of Evangelion
+Peter Weir,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hmGAF5NDoYB6S39UONevjHCESOI.jpg,83,1989,2h 8m,Dead Poets Society
+Akira Kurosawa,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dgNTS4EQDDVfkzJI5msKuHu2Ei3.jpg,83,2006,2h 23m,Ikiru
+Jorge Ulloa,"Drama,Comedy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xc4bTXVwYNXi10jG9dwcaYt5IpU.jpg,83,2019,1h 34m,Dedicated to my ex
+Morgan Spurlock,"Documentary,Music",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cxIoYa7uboxiDvWGxdad6fvgpcH.jpg,83,2013,1h 47m,One Direction: This Is Us
+Park Jun-soo,"Music,Documentary",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pJKy1yvnKh8UjcuYeG3Rt35xHFA.jpg,84,2018,1h 25m,Burn the Stage: The Movie
+Robert Zemeckis,"Adventure,Comedy,Science Fiction",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fNOH9f1aA7XRTzl1sAOx9iF553Q.jpg,83,1985,1h 56m,Back to the Future
+Tosca Musk,"Romance,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/x5o8cLZfEXMoZczTYWLrUo1P7UJ.jpg,84,2020,1h 45m,Gabriel's Inferno: Part II
+Rodney Rothman,"Animation,Action,Adventure,Science Fiction",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg,84,2018,1h 57m,Spider-Man: Into the Spider-Verse
+Lee Joon-ik,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/x9yjkm9gIz5qI5fJMUTfBnWiB2o.jpg,84,2013,2h 2m,Hope
+Tosca Musk,"Romance,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/oyG9TL7FcRP4EZ9Vid6uKzwdndz.jpg,84,2020,2h 2m,Gabriel's Inferno
+Hayao Miyazaki,"Fantasy,Animation,Adventure",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6pZgH10jhpToPcf0uvyTCPFhWpI.jpg,84,2005,1h 59m,Howl's Moving Castle
+Sergio Leone,"Drama,Crime",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/i0enkzsL5dPeneWnjl1fCWm6L7k.jpg,84,1984,3h 49m,Once Upon a Time in America
+Peter Jackson,"Adventure,Fantasy,Action",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg,84,2001,2h 59m,The Lord of the Rings: The Fellowship of the Ring
+Genndy Tartakovsky,"Action,Adventure,Animation,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9NBBkdxH0TjQEBSN2AzeE1sgsF9.jpg,84,2019,1h 25m,Primal: Tales of Savagery
+Park Jun-soo,"Music,Documentary",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7x5CguA0MxHqbSjhi14UEuK7c95.jpg,84,2019,1h 45m,Bring the Soul: The Movie
+Miloš Forman,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3jcbDmRFiQ83drXNOvRDeKHxS0C.jpg,84,1976,2h 13m,One Flew Over the Cuckoo's Nest
+Paulo Lins,"Drama,Crime",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/k7eYdWvhYQyRQoU2TB2A2Xu2TfD.jpg,84,2002,2h 10m,City of God
+Alfred Hitchcock,"Horror,Thriller,Mystery",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg,84,1960,1h 49m,Psycho
+Christopher Zalla,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/eSatbygYZp8ooprBHZdb6GFZxGB.jpg,84,2024,2h 6m,Radical
+David Fincher,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg,84,1999,2h 19m,Fight Club
+Roberto Benigni,"Comedy,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/74hLDKjD5aGYOotO6esUVaeISa2.jpg,85,2006,1h 56m,Life Is Beautiful
+Akira Kurosawa,"Action,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8OKmBV5BUFzmozIC3pPWKHy17kx.jpg,85,1956,3h 27m,Seven Samurai
+Giuseppe Tornatore,"Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gCI2AeMV4IHSewhJkzsur5MEp6R.jpg,85,1989,2h 4m,Cinema Paradiso
+Tommy Swerdlow,"Animation,Adventure,Fantasy,Comedy,Family",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kuf6dutpsT0vSVehic3EZIqkOBt.jpg,82,2022,1h 43m,Puss in Boots: The Last Wish
+Christopher Nolan,"Adventure,Drama,Science Fiction",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg,84,2014,2h 49m,Interstellar
+Ettore Scola,"Drama,Comedy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/zGGWYpiKNwjpKxelPxOMqJnUgDs.jpg,82,1974,2h 4m,We All Loved Each Other So Much
+Souichi Masui,"Animation,Romance,Drama,Fantasy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gsRpizQa3fw1um8v7EvFVXvxD6u.jpg,82,2019,1h 30m,Rascal Does Not Dream of a Dreaming Girl
+Son Sung-deuk,"Music,Documentary",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/1u0rtWPgYfAWmqveXOsQDvMRODD.jpg,82,2019,1h 53m,BTS World Tour: Love Yourself in Seoul
+Peter Farrelly,"Drama,History",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg,82,2019,2h 10m,Green Book
+Jack Kirby,"Adventure,Action,Science Fiction",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg,82,2018,2h 29m,Avengers: Infinity War
+Taichi Ishidate,"Animation,Fantasy,Romance,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/A9R6bukzzRmOzxvDQsXdQpeNm8l.jpg,82,2020,2h 20m,Violet Evergarden: The Movie
+Sergio Pablos,"Animation,Family,Adventure,Comedy,Fantasy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/q125RHUDgR4gjwh1QkfYuJLYkL.jpg,82,2019,1h 36m,Klaus
+Park Chan-wook,"Drama,Thriller,Mystery,Action",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pWDtjs568ZfOTMbURQBYuT4Qxka.jpg,83,2004,2h,Oldboy
+Jack Kirby,"Adventure,Science Fiction,Action",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/or06FN3Dka5tukK1e9sl16pB3iy.jpg,83,2019,3h 1m,Avengers: Endgame
+Hideaki Anno,"Animation,Action,Science Fiction,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/md5wZRRj8biHrGtyitgBZo7674t.jpg,83,2022,2h 35m,Evangelion: 3.0+1.0 Thrice Upon a Time
+Roger Allers,"Family,Animation,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg,83,1994,1h 29m,The Lion King
+Kara Holden,"Music,Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/d0OdD1I8qAfETvE9Rp9Voq7R8LR.jpg,83,2020,2h 1m,Clouds
+Giuseppe Tornatore,"Drama,Music",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4EKnIjT1IGGFyplaW11lTvXrzI0.jpg,83,1998,2h 50m,The Legend of 1900
+Mitja Okorn,"Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bP7u19opmHXYeTCUwGjlLldmUMc.jpg,83,2020,1h 47m,Life in a Year
+Kotaro Tamura,"Animation,Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xAbSLi61npWyVs5M0yxin3dKcGO.jpg,83,2021,1h 38m,"Josee, the Tiger and the Fish"
+Elem Klimov,"Drama,War",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/qNbMsKVzigERgJUbwf8pKyZogpb.jpg,83,1986,2h 22m,Come and See
+Hikaru Yamaguchi,"Animation,Drama,Music,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3trPz7muDOv4AHjDZiD3MLGls2Q.jpg,83,2020,1h,Given
+Mehmet Ada Öztekin,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bOth4QmNyEkalwahfPCfiXjNh1r.jpg,83,2019,2h 12m,Miracle in Cell No. 7
+Justin Baldoni,"Romance,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kreTuJBkUjVWePRfhHZuYfhNE1T.jpg,83,2019,1h 56m,Five Feet Apart
+Luis Mandoki,"Drama,War",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hvwB4LdMCLzqXsk5ZjR77vzPkGk.jpg,82,2005,2h,Innocent Voices
+Bryan Singer,"Drama,Crime,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8dH7y4O26uLPesxUTT80igEtsBM.jpg,82,1995,1h 46m,The Usual Suspects
+Elio Petri,"Drama,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vPTZwlq1IC4o1DCsEZEl2uGljzm.jpg,82,1970,1h 51m,Investigation of a Citizen Above Suspicion
+Nick Hurran,"Science Fiction,Adventure",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yxLra5R61s5J4M5L3mqOY42K5md.jpg,82,2013,1h 17m,Doctor Who: The Day of the Doctor
+Rebecca Sugar,"TV Movie,Animation,Adventure,Comedy,Fantasy,Music",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8mRgpubxHqnqvENK4Bei30xMDvy.jpg,82,2019,1h 22m,Steven Universe: The Movie
+Taichi Ishidate,"Drama,Fantasy,Animation",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3BV1M10SuSi5jOJbSDQQtjX96ov.jpg,82,2019,1h 31m,Violet Evergarden: Eternity and the Auto Memory Doll
+Ingmar Bergman,"Fantasy,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/j6z3c6dGXtPHUATJX8J7Y70mM1S.jpg,82,2005,1h 36m,The Seventh Seal
+Mel Gibson,"Drama,History,War",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wuz8TjCIWR2EVVMuEfBnQ1vuGS3.jpg,82,2016,2h 19m,Hacksaw Ridge
+Ingmar Bergman,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cl0HEZT8UfzLqaMrYTvGNHOfPYj.jpg,82,2004,1h 23m,Persona
+Mari Okada,"Animation,Fantasy,Drama,Adventure",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/uEHRrl6M5MekLNMg0xHvoWnxxi6.jpg,82,2018,1h 55m,Maquia: When the Promised Flower Blooms
+Alain Resnais,"Documentary,War",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2iWYQia8enOai7QEO3TvenleD7r.jpg,82,1956,32m,Night and Fog
+Vittorio De Sica,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rLpveWO1hTNYF9LUZJZgTdq5nyf.jpg,82,1950,1h 29m,Bicycle Thieves
+Kōbō Abe,"Drama,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rE6vtXBDXy3cjyFmxfsDese0Eo4.jpg,82,1964,2h 27m,Woman in the Dunes
+Thomas Kail,"History,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/h1B7tW0t399VDjAcWJh8m87469b.jpg,82,2020,2h 40m,Hamilton
+Stanley Kubrick,"Science Fiction,Crime",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4sHeTAp65WrSSuc05nRBKddhBxO.jpg,82,1972,2h 17m,A Clockwork Orange
+Christopher Nolan,"Drama,Mystery,Science Fiction",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/tRNlZbgNCNOpLpbPEz5L8G8A0JN.jpg,82,2006,2h 10m,The Prestige
+Martin Scorsese,"Drama,Thriller,Mystery",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4GDy0PHYX3VRXUtwK5ysFbg3kEx.jpg,82,2010,2h 18m,Shutter Island
+George Lucas,"Adventure,Action,Science Fiction",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg,82,1977,2h 1m,Star Wars
+Simon Curtis,"Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/mi5VN4ww0JZgRFJIaPxxTGKjUg7.jpg,82,2019,1h 49m,The Art of Racing in the Rain
+Billy Wilder,"Comedy,Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/z6QlfbbORwQ2lnaCqbdEZOg3dRx.jpg,82,1961,2h 5m,The Apartment
+Jim Cash,"Action,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/62HCnUTziyWcpDaBO2i1DX17ljH.jpg,82,2022,2h 11m,Top Gun: Maverick
+Dino Risi,"Drama,Comedy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4h1ckrJQVcQYjeOkqS8i9BqZ9MI.jpg,82,1962,1h 45m,Il Sorpasso
+Caroline Suh,"Documentary,Music",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wwrvjmcgkDyB2RbCbIVLXZf82pl.jpg,82,2020,1h 19m,BLACKPINK: Light Up the Sky
+Steven Spielberg,"Drama,History,War",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg,82,1998,2h 49m,Saving Private Ryan
+Billy Wilder,"Drama,Mystery,Crime",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/mM5Cad2ESBprh6ucPnMzMfI34Cu.jpg,82,1957,1h 56m,Witness for the Prosecution
+Quentin Tarantino,"Drama,Thriller,War",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7sfbEnaARXDDhKm0CZ7D7uc2sbo.jpg,82,2009,2h 33m,Inglourious Basterds
+Lilly Wachowski,"Action,Science Fiction",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg,82,1999,2h 16m,The Matrix
+Pepe Bojórquez,"Comedy,Drama,Music",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xg6QZdlHrq2dtSK8cfnQQMnmpeY.jpg,82,2019,1h 52m,Out of the Clear Blue Sky
+David Franzoni,"Action,Drama,Adventure",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg,82,2000,2h 35m,Gladiator
+Stanley Kubrick,"Horror,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9PtPnOJSH6pewElRlJPGqC5Gd3W.jpg,82,1980,2h 24m,The Shining
+Tomm Moore,"Animation,Family,Adventure,Fantasy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/53VE3Iv9NiCOJfFMWwQuRUQMaXZ.jpg,82,2020,1h 43m,Wolfwalkers
+Park Chan-wook,"Thriller,Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dLlH4aNHdnmf62umnInL8xPlPzw.jpg,82,2016,2h 25m,The Handmaiden
+Haruo Sotozaki,"Action,Animation,Adventure,Fantasy,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/h8Rb9gBr48ODIwYUttZNYeMWeUU.jpg,82,2021,1h 57m,Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train
+Ron Fricke,Documentary,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ldEuJQ4z7zEvL7iXraESWBUfQcz.jpg,82,1994,1h 37m,Baraka
+Xavier Dolan,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nT4VJ6MfSwUoCorYmkcLVaIenya.jpg,82,2014,2h 18m,Mommy
+Shinichiro Ushijima,"Animation,Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/qpV8kvRfAntV7D4aOOsLIz7OdPc.jpg,82,2018,1h 48m,I Want to Eat Your Pancreas
+Mamoru Hosoda,"Animation,Family,Drama,Fantasy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3Nllh6JgcrFdtOn6iFOWHudNInd.jpg,82,2021,1h 57m,Wolf Children
+Andrei Tarkovsky,"Science Fiction,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rem87AyEochEuhn9VvAGoMQpigz.jpg,82,1979,2h 42m,Stalker
+Federico Fellini,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/sjTIqwvPNAnEN7fcRK8MOlGfZMB.jpg,82,1995,2h 19m,8½
+Michael Curtiz,"Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5K7cOHoay2mZusSLezBOY0Qxh8a.jpg,82,1944,1h 42m,Casablanca
+Derek Tsang,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ev8PDIuKm2j3m3jWxw497zCLjzu.jpg,82,2019,2h 15m,Better Days
+Hwang Dong-hyuk,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/mbMp0oIFmYnw0i5gzRoKt8cH5ve.jpg,82,2011,2h 5m,Silenced
+Betty Comden,"Comedy,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/w03EiJVHP8Un77boQeE7hg9DVdU.jpg,82,1952,1h 43m,Singin' in the Rain
+Denis Villeneuve,"Science Fiction,Adventure",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg,82,2024,2h 47m,Dune: Part Two
+Martin Scorsese,"Drama,Thriller,Crime",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nT97ifVT2J1yMQmeq20Qblg61T.jpg,82,2006,2h 31m,The Departed
+Ingmar Bergman,"Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ArKEdvJesIktFX8OAhcdKAOLl6I.jpg,82,1974,2h 49m,Scenes from a Marriage
+Brian De Palma,"Action,Crime,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg,82,1984,2h 49m,Scarface
+Kohei Horikoshi,"Animation,Action,Fantasy,Adventure",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/zGVbrulkupqpbwgiNedkJPyQum4.jpg,82,2020,1h 44m,My Hero Academia: Heroes Rising
+Mairghread Scott,"Animation,Action,Science Fiction",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/c01Y4suApJ1Wic2xLmaq1QYcfoZ.jpg,82,2020,1h 30m,Justice League Dark: Apokolips War
+Alfred Hitchcock,"Mystery,Romance,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/15uOEfqBNTVtDUT7hGBVCka0rZz.jpg,82,1959,2h 9m,Vertigo
+Yasujirō Ozu,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/g2YbTYKpY7N2yDSk7BfXZ18I5QV.jpg,82,1965,2h 17m,Tokyo Story
+Susana Garcia,Comedy,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/zw77BFPGJ73Lig8GwRzYj1XHq53.jpg,82,2019,1h 51m,My Mom Is a Character 3
+John Landis,"Horror,Music,Mystery",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dYHGoPMkZMVuBA4EydmDQMo1EEv.jpg,82,1983,14m,Michael Jackson's Thriller
+Quentin Tarantino,"Drama,Western",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bV0rWoiRo7pHUTQkh6Oio6irlXO.jpg,82,2013,2h 45m,Django Unchained
+Charlie Chaplin,"Comedy,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/drgMcyTsySQBnUPGaBThCHGdlWT.jpg,82,1922,1h 8m,The Kid
+Ernst Lubitsch,"Comedy,Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dZ1aEzGYRiqJwPfjS6VL7wUkHmF.jpg,82,1940,1h 39m,The Shop Around the Corner
+Christopher Nolan,"Mystery,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nWtySDlffTfwAa0rSfq61o33ZXV.jpg,82,2000,1h 53m,Memento
+Masato Jimbo,"Animation,Comedy,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/sg7klpt1xwK1IJirBI9EHaqQwJ5.jpg,83,2022,2h 16m,The Quintessential Quintuplets Movie
+Charlie Chaplin,"Comedy,War",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/1QpO9wo7JWecZ4NiBuu625FiY1j.jpg,83,1941,2h 5m,The Great Dictator
+Takahiro Omori,"Romance,Animation,Fantasy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/mDqzHV8UXWWNpZkoAbKmKX1ZxEE.jpg,83,2012,45m,Hotarubi no Mori e
+Jonathan Demme,"Crime,Drama,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg,83,1991,1h 59m,The Silence of the Lambs
+Tony Kaye,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/euypWkaYFOLW3e5rLIcTAjWnhhT.jpg,83,1999,1h 59m,American History X
+Hayao Miyazaki,"Adventure,Fantasy,Animation",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cMYCDADoLKLbB83g4WnJegaZimC.jpg,83,2001,2h 14m,Princess Mononoke
+Alfred Hitchcock,"Thriller,Mystery",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ILVF0eJxHMddjxeQhswFtpMtqx.jpg,84,1955,1h 55m,Rear Window
+David Fincher,"Crime,Mystery,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6yoghtyTpznpBik8EngEmJskVUO.jpg,84,1995,2h 7m,Se7en
+Christopher Nolan,"Action,Science Fiction,Adventure",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/oYuLEt3zVCKq57qu2F8dT7NIa6f.jpg,84,2010,2h 28m,Inception
+Tosca Musk,"Romance,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fYtHxTxlhzD4QWfEbrC1rypysSD.jpg,84,2020,1h 45m,Gabriel's Inferno: Part III
+Sara Pichelli,"Animation,Action,Adventure,Science Fiction",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg,84,2023,2h 20m,Spider-Man: Across the Spider-Verse
+Naoko Yamada,"Animation,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/tuFaWiqX0TXoWu7DGNcmX3UW7sT.jpg,84,2017,2h 10m,A Silent Voice: The Movie
+Damien Chazelle,"Drama,Music",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7fn624j5lj3xTme2SgiLCeuedmO.jpg,84,2014,1h 47m,Whiplash
+Sam Wrench,Music,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jf3YO8hOqGHCupsREf5qymYq1n.jpg,84,2023,2h 49m,TAYLOR SWIFT | THE ERAS TOUR
+Roman Polanski,"Drama,War",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2hFvxCCWrTmCYwfy7yum0GKRi3Y.jpg,84,2002,2h 30m,The Pianist
+MTJJ,"Animation,Fantasy,Action",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/aLv87NgRJUPkQ6sVLP72IisDdt4.jpg,84,2019,1h 42m,The Legend of Hei
+Masaki Kobayashi,"Action,Drama,History",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5konZnIbcAxZjP616Cz5o9bKEfW.jpg,84,1962,2h 15m,Harakiri
+Irvin Kershner,"Adventure,Action,Science Fiction",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nNAeTmF4CtdSgMDplXTDPOpYzsX.jpg,84,1980,2h 4m,The Empire Strikes Back
+Paul Dugdale,Music,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/u6oXUTtOuJRPdUgUuPAVVJPSKCo.jpg,84,2018,2h 5m,Taylor Swift: Reputation Stadium Tour
+Peter Jackson,"Adventure,Fantasy,Action",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg,84,2002,2h 59m,The Lord of the Rings: The Two Towers
+Martin Scorsese,"Drama,Crime",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg,85,1990,2h 25m,GoodFellas
+Sergio Leone,Western,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg,85,1969,2h 41m,"The Good, the Bad and the Ugly"
+Quentin Tarantino,"Thriller,Crime",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg,85,1994,2h 34m,Pulp Fiction
+Robert Zemeckis,"Comedy,Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg,85,1994,2h 22m,Forrest Gump
+Jonathan Hughes,"Documentary,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/zSKwyUDKDHiFU5syTTvQRDcGBPS.jpg,85,2020,1h 23m,David Attenborough: A Life on Our Planet
+Makoto Shinkai,"Animation,Romance,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/q719jXXEzOoYaps6babgKnONONX.jpg,85,2016,1h 46m,Your Name.
+Peter Jackson,"Adventure,Fantasy,Action",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg,85,2003,3h 21m,The Lord of the Rings: The Return of the King
+Frank Darabont,"Fantasy,Drama,Crime",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg,85,2000,3h 9m,The Green Mile
+Christopher Nolan,"Drama,Action,Crime,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/qJ2tW6WMUDux911r6m7haRef0WH.jpg,85,2008,2h 32m,The Dark Knight
+Steven Spielberg,"Drama,History,War",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg,86,1994,3h 15m,Schindler's List
+Aditya Chopra,"Comedy,Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lfRkUr7DYdHldAqi3PwdQGBRBPM.jpg,85,2007,3h 10m,Dilwale Dulhania Le Jayenge
+Francis Ford Coppola,"Drama,Crime",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg,86,1975,3h 22m,The Godfather Part II
+Bong Joon-ho,"Comedy,Thriller,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg,85,2019,2h 13m,Parasite
+Reginald Rose,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ow3wq89wM8qd5X7hWKxiRfsFf9C.jpg,85,1957,1h 37m,12 Angry Men
+Hayao Miyazaki,"Animation,Family,Fantasy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg,85,2002,2h 5m,Spirited Away
+Francis Ford Coppola,"Drama,Crime",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3bhkrj58Vtu7enYsRolD1fZdja1.jpg,87,1972,2h 55m,The Godfather
+Stanley Kubrick,"War,Drama,History",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3O10X1bVSasrS2NQ186s2tlKvqN.jpg,83,1958,1h 28m,Paths of Glory
+Paola Cortellesi,"Comedy,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4Hi7yjiQjokEDStT1MOj5rPgRfW.jpg,82,2024,1h 58m,There's Still Tomorrow
+Frank Darabont,"Drama,Crime",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg,87,1995,2h 22m,The Shawshank Redemption
+Frank Capra,"Drama,Family,Fantasy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bSqt9rhDZx1Q7UZ86dBPKdNomp2.jpg,83,1948,2h 10m,It's a Wonderful Life
+Éric Toledano,"Drama,Comedy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/1QU7HKgsQbGpzsJbJK4pAVQV9F5.jpg,83,2012,1h 53m,The Intouchables
+Peter Baynton,"Animation,Family,Adventure,Fantasy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/oQRgyQCzcyZvE6w5heM9ktVY0LT.jpg,83,2022,35m,"The Boy, the Mole, the Fox and the Horse"
+Bang Woo-ri,"Romance,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/qhWPZdEEyht9Vqpj0vl3FB6CSr0.jpg,82,2022,1h 59m,20th Century Girl
+Alan Barillaro,"Family,Animation",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rfEkkVzmrMYqGezNLl02mVyJCP2.jpg,82,2016,6m,Piper
+Todd Phillips,"Crime,Thriller,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg,82,2019,2h 2m,Joker
+Nadine Labaki,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/mFnfTVADj8yOxwzprYOmTPselk8.jpg,82,2019,2h 6m,Capernaum
+Dan O'Bannon,"Horror,Science Fiction",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg,82,1979,1h 57m,Alien
+Gus Van Sant,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bABCBKYBK7A5G1x0FzoeoNfuj2.jpg,82,1998,2h 7m,Good Will Hunting
+Ericson Core,"Adventure,Family",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wX0QD36a80hxulcizz7tyahYOF8.jpg,82,2019,1h 53m,Togo
+Zack Snyder,"Action,Adventure,Fantasy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg,82,2021,4h 2m,Zack Snyder's Justice League
+Pete Docter,"Animation,Comedy,Family,Adventure",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vpbaStTMt8qqXaEgnOR2EE4DNJk.jpg,80,2009,1h 36m,Up
+Victor Fleming,"Drama,War,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lNz2Ow0wGCAvzckW7EOjE03KcYv.jpg,80,1940,3h 53m,Gone with the Wind
+Yoshifumi Kondo,"Animation,Drama,Family",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5FROLD8zpWFs9ja7aYho1uOMJHg.jpg,79,2006,1h 51m,Whisper of the Heart
+Steve McQueen,"Drama,History",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xdANQijuNrJaw1HA61rDccME4Tm.jpg,79,2014,2h 14m,12 Years a Slave
+Yang Yu,"Animation,Fantasy,Adventure",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vhnxaQel1CwfcwLtCkTNpSdjte1.jpg,79,2019,1h 50m,Ne Zha
+Carol Reed,"Thriller,Mystery",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/oIF3l7Dxp7Eyye10BNyM611wtKa.jpg,79,1950,1h 44m,The Third Man
+Pietro Germi,"Comedy,Crime",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vZbdSpUFyFiDBBTY0AiSrN9f303.jpg,79,1961,1h 44m,Divorce Italian Style
+Jimmy Chin,"Documentary,Adventure",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/v4QfYZMACODlWul9doN9RxE99ag.jpg,79,2019,1h 40m,Free Solo
+Asghar Farhadi,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xQadpnoLokxzN3hRpCPbBGpxsiz.jpg,79,2012,2h 3m,A Separation
+Rob Reiner,"Crime,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vz0w9BSehcqjDcJOjRaCk7fgJe7.jpg,79,1987,1h 29m,Stand by Me
+Otto Preminger,"Crime,Drama,Mystery",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/zMxLbSPpToTCc6yK2Gddhx6nHNN.jpg,78,1959,2h 41m,Anatomy of a Murder
+Antoine Fuqua,"Drama,War,History",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/s9sUK1vAaOcxJfKzNTszrNkPhkH.jpg,78,2022,2h 12m,Emancipation
+Andrei Tarkovsky,"Drama,Science Fiction,Mystery",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/uER8n2iitx8Tek6v0wXeF5lMGXp.jpg,78,1972,2h 47m,Solaris
+Matteo Garrone,"Adventure,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/arh0pfq8PfyLfob4ymMz8kzrVFR.jpg,78,2024,2h 1m,Io Capitano
+Vittorio De Sica,"Drama,War",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/biWDAUQD58enMEcyO2BqIVSycF4.jpg,78,1960,1h 40m,Two Women
+Frank Pavich,Documentary,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/maxjevZcGbfrp55XRk4gcZGeJVd.jpg,78,2014,1h 30m,Jodorowsky's Dune
+Scott Speer,"Romance,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vPG2zEKPXhovPW9S91SRnwr5JM1.jpg,78,2018,1h 31m,Midnight Sun
+Kiel Murray,"Animation,Adventure,Comedy,Fantasy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/1HOYvwGFioUFL58UVvDRG6beEDm.jpg,78,2022,1h 45m,Luck
+Sidney Lumet,"Thriller,Drama,War",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/qrsj5hort5xkLOKw9NyraGMnlVP.jpg,78,1964,1h 52m,Fail Safe
+Doug Sweetland,"Animation,Family,Comedy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/asmKQG2qhpVM1KD6x5kODAZPmZl.jpg,78,2009,5m,Presto
+Hideaki Anno,"Animation,Science Fiction,Action,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7VLYN2CfJpB6PrcuzDKKqdGSUi6.jpg,78,2010,1h 52m,Evangelion: 2.0 You Can (Not) Advance
+Damien Chazelle,"Drama,Music",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2yQkiGAmztaBkGLjVIrHUYHTex5.jpg,78,2013,18m,Whiplash
+John Ford,Western,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4C1R0LEivLjbv3swAzJfzh0tzXl.jpg,78,1963,2h 3m,The Man Who Shot Liberty Valance
+John McTiernan,"Action,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7Bjd8kfmDSOzpmhySpEhkUyK2oH.jpg,78,1988,2h 12m,Die Hard
+John G. Avildsen,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cqxg1CihGR5ge0i1wYXr4Rdeppu.jpg,78,1977,2h,Rocky
+Yann Arthus-Bertrand,Documentary,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2Ph0vzTiORSSlYjsXLFM1OZHkI8.jpg,78,2009,1h 35m,Home
+Ryan Murphy,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3dfoCGiD61568Uu8wyiK7SMEZAu.jpg,78,2014,2h 13m,The Normal Heart
+Francis Lee,"Romance,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/uKShYyGsleXAZ6e6gK5jF6Wa2tW.jpg,78,2017,1h 45m,God's Own Country
+Peter Jackson,"Documentary,History,War",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yMGfJeTXUdIjOqjS0jJfjgYEuYC.jpg,78,2018,1h 39m,They Shall Not Grow Old
+Hayao Miyazaki,"Drama,Animation,Romance,War",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jfwSexzlIzaOgxP9A8bTA6t8YYb.jpg,78,2014,2h 6m,The Wind Rises
+Enrico Casarosa,"Animation,Family",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9euW64JUgFlA7fxN8lAmwK6gUaQ.jpg,78,2012,7m,La luna
+Sidney Lumet,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/uFmgWfiykZhStfs1B13fFdUO1Pk.jpg,78,1976,2h 2m,Network
+Ingmar Bergman,"Drama,History",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/z70YM3Y4pNYZATMhFMKonngaeMC.jpg,78,1960,1h 30m,The Virgin Spring
+Krzysztof Kieślowski,"Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kLAMz50Or2So1aEzHYv0R8iXo46.jpg,78,1988,1h 27m,A Short Film About Love
+Park Hoon-jung,"Action,Mystery,Thriller,Science Fiction",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4i2wo2ja5g2PmUxWa1a2eYIboZf.jpg,78,2018,2h 5m,The Witch: Part 1. The Subversion
+David Lean,"Drama,History,War",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7paXMt2e3Tr5dLmEZOGgFEn2Vo7.jpg,78,1957,2h 41m,The Bridge on the River Kwai
+Roman Polanski,"Drama,Horror,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nclYFGpVzfbiORO5ELVVdxzt9Vg.jpg,78,1968,2h 18m,Rosemary's Baby
+Dean DeBlois,"Fantasy,Adventure,Animation,Family",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg,78,2010,1h 38m,How to Train Your Dragon
+Giuseppe Tornatore,"Drama,Romance,Crime",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yfbsINSfotAHaeWKJbfsVKSckvq.jpg,78,2013,2h 11m,The Best Offer
+Hayao Miyazaki,"Animation,Family,Fantasy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/Aufa4YdZIv4AXpR9rznwVA5SEfd.jpg,78,1991,1h 43m,Kiki's Delivery Service
+Costa-Gavras,"Thriller,Crime,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dFAJyFNgvOv24f2RQyI9KDxjGr3.jpg,78,1970,2h 7m,Z
+Enrico Casarosa,"Animation,Comedy,Fantasy,Adventure,Family",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jTswp6KyDYKtvC52GbHagrZbGvD.jpg,78,2024,1h 35m,Luca
+Thor Freudenthal,"Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/mMICdcRBxiEUUpdAFCYRezE3Dy5.jpg,78,2020,1h 51m,Words on Bathroom Walls
+Zach Parrish,"Animation,Drama,Family",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/zKnenwvQB6xA4mxc8zxL2S8qVbR.jpg,78,2021,7m,Us Again
+Christian Duguay,"War,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kjVPBXfo7frULyUzQ8NRPAflP8G.jpg,78,2017,1h 53m,A Bag of Marbles
+Frank Capra,"Comedy,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2PNUGWAflH6UUumas0POMmokHlc.jpg,78,2001,1h 45m,It Happened One Night
+Takehiko Inoue,"Animation,Comedy,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7i3EBXY87HdHagCoFbmjHQ8DlkG.jpg,78,2024,2h 5m,The First Slam Dunk
+Auguste Le Breton,"Crime,Thriller,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/heVdAFNZUxXVmO6jiJcEHCvI5lK.jpg,78,1955,1h 58m,Rififi
+Christian Ditter,"Romance,Drama,Comedy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rpD0t7DhzJVadnzgxSYrqljQTL2.jpg,78,2014,1h 42m,"Love, Rosie"
+George Lucas,"Adventure,Action",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/npUCnxl1fqgt3aQiMQq0iJdZMZp.jpg,79,1989,2h 7m,Indiana Jones and the Last Crusade
+Yojiro Takita,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/mms4nMZuPYOyEengRxCaEk7SXMd.jpg,78,2009,2h 10m,Departures
+Franklin J. Schaffner,"Crime,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/356oqQpug682OERsWV0bGZ0YxwQ.jpg,78,1974,2h 31m,Papillon
+Albert Dupontel,"Drama,Crime,War",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pkO5YoznMR9neuHVzhxHK9JJpAj.jpg,78,2018,1h 53m,See You Up There
+Wes Anderson,"Adventure,Comedy,Animation",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/c0nUX6Q1ZB0P2t1Jo6EeFSVnOGQ.jpg,78,2018,1h 41m,Isle of Dogs
+Rian Johnson,"Comedy,Crime,Mystery",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pThyQovXQrw2m0s9x82twj48Jq4.jpg,78,2019,2h 11m,Knives Out
+Ernst Lubitsch,"Comedy,War",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dDQRpEoyjHT4fzw9cNklIvZuXYg.jpg,79,1942,1h 39m,To Be or Not to Be
+László Krasznahorkai,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fzG0xks6HNSnQg6atlF98brHvIT.jpg,79,2001,2h 19m,Werckmeister Harmonies
+Adam Elliot,"Animation,Comedy,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ebmsM382m9IClLUzKYY2U5biFwM.jpg,78,2009,1h 32m,Mary and Max
+Luis Fernando Frías de la Parra,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/AtfK71xkVaaHTZwU5mgfDgBqg9Y.jpg,79,2019,1h 52m,I'm No Longer Here
+Rodolfo Riva Palacio Alatriste,"Animation,Comedy,Adventure,Family",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7he8glf7j41d3amgf4Nbpt3HVq1.jpg,79,2022,1h 29m,An Egg Rescue
+Gavin O'Connor,"Drama,Action",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/iM8n4nZJPR2abpnyZ36FUgHiRjr.jpg,79,2011,2h 20m,Warrior
+Dziga Vertov,Documentary,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vJgAdgJWX54v0oXfIvhwjlZnmgn.jpg,79,1929,1h 8m,Man with a Movie Camera
+Kevin Costner,"Adventure,Drama,Western",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cvaBVpS0GzKqBd63pFT8f1E8OKv.jpg,79,1991,3h 1m,Dances with Wolves
+Arthur Conan Doyle,"Crime,Drama,Mystery,TV Movie",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hibE8cyZs2Bm0o4WaWd1pppvjO2.jpg,79,2016,1h 30m,Sherlock: The Abominable Bride
+James Marsh,"Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wucOQrqihOtHToP7UAPKMFRJ9LL.jpg,79,2015,2h 3m,The Theory of Everything
+Marc Meyers,"Romance,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xoKZ4ZkVApcTaTYlGoZ3J8xcIzG.jpg,79,2020,1h 33m,All My Life
+Tod Browning,"Drama,Horror",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fX2Wxd0W9E7eVClUd8kJTfennoV.jpg,78,1932,1h 6m,Freaks
+Guy Ritchie,"Crime,Comedy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8KSDI7ijEv7QVZdIyrLw5Gnhhr8.jpg,78,2000,1h 43m,Snatch
+Ole Bornedal,"War,Drama,History",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jCKvbH3a4V5IPoRAG85eDaniNqO.jpg,78,2021,1h 47m,The Shadow in My Eye
+David Lynch,"Thriller,Drama,Mystery",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/tVxGt7uffLVhIIcwuldXOMpFBPX.jpg,78,2001,2h 27m,Mulholland Drive
+Luciano Salce,Comedy,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/b3R1LWvraY6RJWfIu3aLXBF1ra8.jpg,78,1975,1h 48m,White Collar Blues
+Mike Newell,"Adventure,Fantasy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg,78,2005,2h 37m,Harry Potter and the Goblet of Fire
+Richard Linklater,"Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gycdE1ARByGQcK4fYR2mgpU6OO.jpg,78,2004,1h 20m,Before Sunset
+Jūzō Itami,Comedy,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2XLDb3RDQmtlxt5Snnig9W4moq4.jpg,78,1985,1h 55m,Tampopo
+Akira Kurosawa,"Action,Drama,History,War",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ag3sgXg27j8NTaIbWoODIFiikfw.jpg,78,1980,3h,Kagemusha
+Howard Hawks,Western,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4gI4KKmoi0d3yfsF71YU3S0I5t8.jpg,78,1959,2h 21m,Rio Bravo
+Tom McCarthy,"Drama,History",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gWkgMnIsd8Od7iyhEEKL5G4Qq6J.jpg,78,2016,2h 9m,Spotlight
+Jaco Van Dormael,"Science Fiction,Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/qNkIONc4Rgmzo23ph7qWp9QfVnW.jpg,78,2014,2h 21m,Mr. Nobody
+Alan Mak,"Drama,Action,Thriller,Crime,Mystery",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gix9thDBXfjJ8M7rYbihqbQGBcP.jpg,78,2004,1h 41m,Infernal Affairs
+François Truffaut,"Comedy,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/s8TrKd8fNS5lfcnARaWMFUGjnL9.jpg,78,1973,1h 56m,Day for Night
+Satoshi Kon,"Animation,Drama,Romance,Fantasy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/p44UXOFBCY5xbpCKEsWpi4filCD.jpg,78,2022,1h 27m,Millennium Actress
+James Mangold,"Action,Drama,Science Fiction",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg,78,2017,2h 17m,Logan
+Andrew Stanton,"Animation,Family",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/eHuGQ10FUzK1mdOY69wF5pGgEf5.jpg,78,2003,1h 40m,Finding Nemo
+Brad Bird,"Animation,Comedy,Family,Fantasy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg,78,2007,1h 51m,Ratatouille
+Mario Monicelli,Comedy,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/qTG8dhWyTBV7xa0PSZkz5ShjtXc.jpg,78,1981,2h 15m,The Marquis of Grillo
+Daniel Chong,"Animation,Adventure,Family,Comedy,TV Movie",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kPzcvxBwt7kEISB9O4jJEuBn72t.jpg,78,2020,1h 9m,We Bare Bears: The Movie
+Tim Burton,"Fantasy,Animation,Family",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg,78,1994,1h 16m,The Nightmare Before Christmas
+Todd Douglas Miller,"Documentary,History,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/woLMRroHyoTGoXyxdEeBJEYBFtu.jpg,78,2019,1h 33m,Apollo 11
+Sidney Lumet,"Crime,Drama,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/mavrhr0ig2aCRR8d48yaxtD5aMQ.jpg,78,1975,2h 5m,Dog Day Afternoon
+Brian De Palma,"Crime,Drama,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/g6D7mjQtndu768cusGmoEQY9fTB.jpg,78,1994,2h 24m,Carlito's Way
+Bernardo Bertolucci,"Drama,History",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/deWzfCC59tmtEQvKSmflDe14FvR.jpg,78,1993,5h 16m,1900
+Billy Wilder,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gPVPzHEsJBX02HtBtIQgYnfeqNQ.jpg,78,1951,1h 51m,Ace in the Hole
+Mark Herman,"Drama,War,History",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/sLwYSEVVV3r047cjrpRAbGgNsfL.jpg,78,2008,1h 34m,The Boy in the Striped Pyjamas
+Sergio Leone,Western,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lBwOEpwVeUAmrmglcstnaGcJq3Y.jpg,78,2010,1h 39m,A Fistful of Dollars
+David Lynch,"Thriller,TV Movie,Drama,Mystery",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/oGXtT5UW8lDWt8uxlww2zw9GmBs.jpg,78,2017,1h 28m,Mulholland Dr.
+Patrick Osborne,"Animation,Comedy,Drama,Family",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6hAgSxgd2YIK5pYhwowtnlGpwbe.jpg,78,2014,6m,Feast
+Neill Blomkamp,"Adventure,Action,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/51tqzRtKMMZEYUpSYkrUE7v9ehm.jpg,78,2023,2h 15m,Gran Turismo
+Patrick Imbert,"Animation,Adventure,Mystery",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/iowz7MwaTWMYlfLUE6GeM0m3Hze.jpg,78,2021,1h 35m,The Summit of the Gods
+Pete Docter,"Animation,Comedy,Family",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg,78,2001,1h 32m,"Monsters, Inc."
+Joel Coen,"Comedy,Crime",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9mprbw31MGdd66LR0AQKoDMoFRv.jpg,78,1998,1h 57m,The Big Lebowski
+Park Chan-wook,"War,Drama,Thriller,Action",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/etoPOj0bXzfw0LBNslCxqO7MHuv.jpg,78,2000,1h 48m,Joint Security Area
+Nora Twomey,"Animation,War,Drama,Family",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2d6qmkJz9AWqmk9wBWtd2uFX89t.jpg,78,2018,1h 34m,The Breadwinner
+Kang Je-kyu,"Drama,Action,History,War",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3moPqIC1EBFilLI3YJNa5Nfel3e.jpg,78,2011,2h 17m,My Way
+John Steinbeck,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/eUcxMVBIA0Jg8l1RGUqycrc3eIQ.jpg,79,1940,2h 9m,The Grapes of Wrath
+Olivier Nakache,"Comedy,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/zJziqrnSOzKiV0TrNVZ3AS0NMKI.jpg,78,2020,1h 54m,The Specials
+Gary Alazraki,Comedy,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/40JLnLz5KEQeZnUCKD3zf8sQJFx.jpg,79,2013,1h 48m,We Are the Nobles
+Spike Jonze,"Romance,Science Fiction,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lEIaL12hSkqqe83kgADkbUqEnvk.jpg,79,2014,2h 6m,Her
+Ron Howard,"Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/26uu1IKOs81D7Pfz1iC9FgrwAk9.jpg,79,2002,2h 15m,A Beautiful Mind
+Kim Ki-duk,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6SQQ5REuAz7k0FMQ9mSCT40T2LN.jpg,79,2003,1h 43m,"Spring, Summer, Fall, Winter... and Spring"
+Don Hall,"Animation,Family,Fantasy,Action,Adventure",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lPsD10PP4rgUGiGR4CCXA6iY0QQ.jpg,79,2021,1h 47m,Raya and the Last Dragon
+Robert De Niro,"Drama,Crime",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/sDbO6LmLYtyqAoFTPpRcMgPSCEO.jpg,79,1994,2h 1m,A Bronx Tale
+Joel Coen,"Crime,Drama,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rt7cpEr1uP6RTZykBFhBTcRaKvG.jpg,79,1996,1h 38m,Fargo
+Jean Renoir,"Drama,History,War",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lWg41zE0FVixkNsFgxnlRyvDYv9.jpg,79,1937,1h 54m,Grand Illusion
+Joachim Fest,"Drama,History,War",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cP1ElGjBhbZAAqmueXjHDKlSwiP.jpg,79,2005,2h 35m,Downfall
+Matías Moltrasio,"Romance,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/iqRUOtbDunNq7gTux3zXz25Krwp.jpg,79,2019,1h 41m,In the Arms of an Assassin
+Hirokazu Kore-eda,"Drama,Crime,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4nfRUOv3LX5zLn98WS1WqVBk9E9.jpg,79,2018,2h,Shoplifters
+Hermann Sudermann,"Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/oj8ZW8jKXBSs8F1e5iWsTUeXSJW.jpg,79,1927,1h 34m,Sunrise: A Song of Two Humans
+Vittorio De Sica,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5I7SYsNQmZRZpQ2MAarIQYU9vaX.jpg,79,1952,1h 31m,Umberto D.
+Andrei Tarkovsky,"Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fCYSidPXp3LpDa9wlLNv0gZvjyF.jpg,79,1983,2h 4m,Nostalgia
+Gabriela Cowperthwaite,Documentary,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kCk4mDFE96Mn1AYfEcbxkIiw7ND.jpg,79,2013,1h 23m,Blackfish
+Ingmar Bergman,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wDxrEssdjFWYwIZLbr06RQNcg1q.jpg,79,1963,1h 20m,Winter Light
+Darren Aronofsky,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jQ0gylJMxWSL490sy0RrPj1Lj7e.jpg,79,2023,1h 57m,The Whale
+Ángel Manuel Soto,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8oiMFMarbRpcusASIX4cjVXoZKI.jpg,79,2020,2h 5m,Charm City Kings
+Ali Tabrizi,"Documentary,Crime",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/iFNri0fwn1WfCoxf3H3v1z8dCm4.jpg,79,2021,1h 29m,Seaspiracy
+Paolo Genovese,"Comedy,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3wknM629Vryofb1HNo2YnLQnQyn.jpg,79,2017,1h 37m,Perfect Strangers
+Tim Trachte,"Romance,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/zrpTa8JxNqd87G7HIqnynp9HpUc.jpg,79,2019,1h 57m,Close to the Horizon
+Peter Bogdanovich,"Comedy,Crime,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3GHG0kTcBWHKdXjj3RdK8GjBCd6.jpg,79,1973,1h 42m,Paper Moon
+Ben Winston,Documentary,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bT3c4TSOP8vBmMoXZRDPTII6eDa.jpg,79,2021,1h 44m,Friends: The Reunion
+Lars von Trier,"Drama,Crime",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8Wdd3fQfbbQeoSfWpHrDfaFNhBU.jpg,79,2000,2h 20m,Dancer in the Dark
+D. J. Caruso,"Romance,Drama,Western",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/z8VpsTdIjBhdeGeNEsHFwz6MJXp.jpg,79,2022,2h 14m,Redeeming Love
+Pier Paolo Pasolini,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8MysuFQesbESkulqAlsLHs8RXBz.jpg,79,1962,1h 50m,Mamma Roma
+Henry Selick,"Animation,Family,Fantasy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4jeFXQYytChdZYE9JYO7Un87IlW.jpg,79,2009,1h 40m,Coraline
+Andrei Tarkovsky,"Drama,War",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vmRWSLP1DE9WTta0hfzIafJ0dID.jpg,79,1962,1h 35m,Ivan's Childhood
+Edward Yang,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/mR8dSQZI8X6Z1NClJhFrtJp636z.jpg,79,2017,2h 54m,Yi Yi
+John Carney,"Romance,Drama,Music",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/sUWpVlrvzU2SJbnVZqIeKulPKwk.jpg,79,2016,1h 46m,Sing Street
+Damián Szifron,"Drama,Thriller,Comedy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bU7IUeTdYFOgeUPtwpWKQNhORMC.jpg,79,2015,2h 2m,Wild Tales
+Brian Knappenberger,"Documentary,Crime",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/s8qznCAjPRcRwQkvGU6rRdF7mxb.jpg,79,2014,1h 45m,The Internet's Own Boy: The Story of Aaron Swartz
+Chris Marker,"Romance,Science Fiction",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/sqbvjbJRzTduUj4lVm2FmPkqJkS.jpg,79,1962,28m,La Jetée
+Garth Jennings,"Animation,Family,Music,Comedy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg,79,2021,1h 50m,Sing 2
+Quentin Tarantino,"Action,Crime,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2yhg0mZQMhDyvUQ4rG1IZ4oIA8L.jpg,79,2004,2h 16m,Kill Bill: Vol. 2
+Gillo Pontecorvo,"Drama,War,History",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/1eEN4ubAFB4N2Rl9syqPVCcwrGG.jpg,79,2005,2h 1m,The Battle of Algiers
+Philippa Ehrlich,Documentary,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hvTVZb7hBC8tZAGoEhH5eiMJu2B.jpg,79,2020,1h 25m,My Octopus Teacher
+Godfrey Reggio,Documentary,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6zCNciRcob8lwuydVXgq0esla8L.jpg,79,1983,1h 26m,Koyaanisqatsi
+Henri-Georges Clouzot,"Horror,Thriller,Mystery",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pNcwhz3Eyfn3KQ2XykTozbARMpr.jpg,79,1955,1h 57m,Diabolique
+Greta Gerwig,"Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg,79,2020,2h 15m,Little Women
+Akira Toriyama,"Action,Science Fiction,Animation",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/f03YksE4NggUjG75toz4H1YAGRf.jpg,79,2019,1h 39m,Dragon Ball Super: Broly
+Abbas Kiarostami,"Crime,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/m9HG2N9ZKCmNN9qOHJTNyy18wn3.jpg,79,1990,1h 38m,Close-Up
+James McTeigue,"Action,Thriller,Science Fiction",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/1avD1JeaRiJX5M4ahPdZPypGoGN.jpg,79,2006,2h 12m,V for Vendetta
+William Nicholson,"Drama,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yi5KcJqFxy0D6yP8nCfcF8gJGg5.jpg,79,2022,2h 27m,Thirteen Lives
+Jim Sheridan,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5HaQacOMOjA2wX1XnwnDd2VaXCf.jpg,79,1994,2h 13m,In the Name of the Father
+Kohei Horikoshi,"Animation,Action,Adventure,Fantasy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hC4nTxdhXqFWzgqynGvvXVMiMNp.jpg,79,2018,1h 36m,My Hero Academia: Two Heroes
+Damien Chazelle,"Comedy,Drama,Romance,Music",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg,79,2016,2h 9m,La La Land
+George Hickenlooper,Documentary,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nVMCtL3r2nj4fySihDDvamaVkfx.jpg,79,1992,1h 36m,Hearts of Darkness: A Filmmaker's Apocalypse
+Gabriele Muccino,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lBYOKAMcxIvuk9s9hMuecB9dPBV.jpg,79,2007,1h 57m,The Pursuit of Happyness
+Nattawut Poonpiriya,"Drama,Crime,Thriller,Comedy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/mgyvwqn5SYKhfg5kofZDfgH8R0q.jpg,79,2017,2h 10m,Bad Genius
+Santiago Mitre,"Drama,History,Crime",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/u0TFD4YFMfYtNSLxfbWq5cg0KIh.jpg,79,2022,2h 21m,"Argentina, 1985"
+Federico Fellini,"Comedy,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kS7i093sQpkLTawUEdgf4HVOHSc.jpg,79,1973,2h 3m,Amarcord
+Satoshi Kon,"Animation,Drama,Comedy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/sPC66btzQlzuRdPKiSDYZ5Hvxgc.jpg,79,2004,1h 33m,Tokyo Godfathers
+Kunio Katou,Animation,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kNGiHnbAToF1iIkN2kOTCEEXtAc.jpg,79,2008,12m,La Maison en Petits Cubes
+James Cameron,"Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg,79,1997,3h 14m,Titanic
+Marjane Satrapi,"Animation,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/aU8i2QAdTyRR1nYb36Gq51xXP8p.jpg,79,2007,1h 35m,Persepolis
+F. W. Murnau,"Fantasy,Drama,Horror",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rN703hMFxmkZfyEzsXvFtuFhkXE.jpg,79,1926,1h 46m,Faust
+Destin Daniel Cretton,"Drama,Crime,History",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4YJNp1cquIkX8JxFwkKNEFQ9tgr.jpg,79,2020,2h 17m,Just Mercy
+Mel Brooks,Comedy,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/tQJAWbIjvvqVKLLbIZHtwGw2HTf.jpg,79,1975,1h 46m,Young Frankenstein
+Frank Capra,"Comedy,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nDjg1fbNyq15excNDl3acd2IqAk.jpg,79,2001,2h 9m,Mr. Smith Goes to Washington
+Dalton Trumbo,"Romance,Comedy,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8lI9dmz1RH20FAqltkGelY1v4BE.jpg,79,1953,1h 59m,Roman Holiday
+Edward Sedgwick,"Comedy,Romance,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/prhMP7VVxpQTzOFIPsbnr41IDTN.jpg,79,1928,1h 14m,The Cameraman
+Tim Burton,"Animation,Fantasy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jRIFN6WJOeJUInJlzRUEb6E1vkB.jpg,79,1982,6m,Vincent
+Luc Besson,"Action,Drama,Crime",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yZGdlrKxglrWciRl0Rs6lAjfPHM.jpg,79,2023,1h 55m,Dogman
+William Wyler,"History,Drama,Adventure,Action",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg,79,1960,3h 42m,Ben-Hur
+Nick Cassavetes,"Romance,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rNzQyW4f8B8cQeg7Dgj3n6eT5k9.jpg,79,2004,2h 3m,The Notebook
+Luis Estrada,"Action,Crime,Western,Comedy,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/eh004yF4wv8pBJ8mw8yVy1rMm4M.jpg,79,2010,2h 28m,El Infierno
+Tomotaka Shibayama,"Animation,Drama,Romance,Fantasy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6inkRM1XGBG5vRhclCPWfMenp7N.jpg,79,2020,1h 44m,A Whisker Away
+Gillian Flynn,"Mystery,Thriller,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lv5xShBIDPe7m4ufdlV0IAc7Avk.jpg,79,2014,2h 29m,Gone Girl
+Malik Bendjelloul,"Music,Documentary",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ucM98HuBHSWmn44oiE83hIDc6VB.jpg,79,2012,1h 25m,Searching for Sugar Man
+Jim Lee,"Science Fiction,Animation,Action,Adventure",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/isCknjIWem0W3KwNUDLrDN7F40H.jpg,79,2013,1h 15m,Justice League: The Flashpoint Paradox
+Jenny Bicks,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/b9CeobiihCx1uG1tpw8hXmpi7nm.jpg,79,2017,1h 45m,The Greatest Showman
+Charles Laughton,"Crime,Drama,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rBka0nFWiHxabHRLr0KfIA8Yiaq.jpg,79,1992,1h 33m,The Night of the Hunter
+J.G. Quintel,"Animation,Comedy,Science Fiction,TV Movie,Adventure,Action",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/p44RoW4naoE1nlSGOqqT0J2pc09.jpg,79,2015,1h 10m,Regular Show: The Movie
+George Lucas,"Adventure,Action,Science Fiction",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jQYlydvHm3kUix1f8prMucrplhm.jpg,79,1983,2h 12m,Return of the Jedi
+Miguel Sapochnik,"Science Fiction,Drama,Adventure",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jKuDyqx7jrjiR9cDzB5pxzhJAdv.jpg,79,2021,1h 55m,Finch
+Nitesh Tiwari,"Drama,Family,Comedy,Action",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cJRPOLEexI7qp2DKtFfCh7YaaUG.jpg,79,2016,2h 41m,Dangal
+Roger Spottiswoode,"Family,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nBYG0D2FcbL1m926sIj7RN4m0sb.jpg,79,2016,1h 43m,A Street Cat Named Bob
+Matt Ross,"Adventure,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2sFME73GaD8UsUxPUKe60cPdLif.jpg,79,2016,1h 58m,Captain Fantastic
+Antoine Blossier,"Adventure,Family,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/mQYXlxlUTmOP4FWt52qkZZb8JNM.jpg,79,2018,1h 49m,"Remi, Nobody's Boy"
+Chris Appelhans,"Animation,Family,Comedy,Fantasy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lnPf6hzANL6pVQTxUlsNYSuhT5l.jpg,79,2021,1h 39m,Wish Dragon
+Troy Quane,"Adventure,Animation,Fantasy,Family",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2NQljeavtfl22207D1kxLpa4LS3.jpg,79,2023,1h 39m,Nimona
+Akira Toriyama,"Animation,Science Fiction,Action",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pi0iZOEHeA3ih4p1IwAG4x2DZNH.jpg,79,2022,1h 39m,Dragon Ball Super: Super Hero
+James Gunn,"Action,Science Fiction,Adventure",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg,79,2014,2h 1m,Guardians of the Galaxy
+Jean-Pierre Jeunet,"Comedy,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nSxDa3M9aMvGVLoItzWTepQ5h5d.jpg,79,2001,2h 2m,Amélie
+Ava DuVernay,Documentary,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/tcKNWD6IFPPsvkpvyZ548naz0is.jpg,79,2016,1h 40m,13th
+Chiwetel Ejiofor,"Drama,History",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yOr7RxHw15MMXNxGMXSmngDqHyI.jpg,79,2019,1h 53m,The Boy Who Harnessed the Wind
+Mike Rianda,"Animation,Adventure,Comedy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/mI2Di7HmskQQ34kz0iau6J1vr70.jpg,79,2021,1h 50m,The Mitchells vs. the Machines
+Lana Wilson,"Documentary,Music",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/z1HiEB1UEfdA5fPkngekjQ2vlCC.jpg,79,2020,1h 25m,Miss Americana
+Tony Bancroft,"Animation,Family,Adventure",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5TYgKxYhnhRNNwqnRAKHkgfqi2G.jpg,79,1998,1h 28m,Mulan
+Carl Theodor Dreyer,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/e3oh96Zrqdaku8DoD10pXZHLZoU.jpg,79,1966,2h 5m,Ordet
+Chris Columbus,"Adventure,Fantasy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg,79,2001,2h 32m,Harry Potter and the Philosopher's Stone
+Richard LaGravenese,"Crime,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/81AdeUQT99N0xPg3j6RVh0YGOTk.jpg,79,2007,2h 3m,Freedom Writers
+Thomas Astruc,"Animation,Fantasy,Action,TV Movie",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/qQ0VKsGRQ2ofAmswGNzZnvC1xPE.jpg,79,2021,54m,Miraculous World: Shanghai – The Legend of Ladydragon
+Charlie Chaplin,"Romance,Drama,Music",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/tDD11x3ZWCXXXwdpbGEU9uU4kh1.jpg,79,1976,2h 17m,Limelight
+Jay Oliva,"Science Fiction,Action,Animation,Mystery",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/arEZYd6uMOFTILne9Ux0A8qctMe.jpg,79,2013,1h 18m,"Batman: The Dark Knight Returns, Part 2"
+Akira Kurosawa,"Drama,History",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/zaZFMNxJST0TtPd68yF7fNt1he8.jpg,79,1957,1h 48m,Throne of Blood
+Elia Kazan,"Crime,Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fKjLZy9W8VxMOp5OoyWojmLVCQw.jpg,79,1984,1h 48m,On the Waterfront
+Abbas Kiarostami,"Drama,Family",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2rTW4s1kgvoqVs0Kv8ARle1SrkF.jpg,79,1987,1h 23m,Where Is The Friend's House?
+Lee Hwan-kyung,"Drama,Comedy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6sqbCqk6tFQgO2nsVqnez7xdRLx.jpg,79,2013,2h 7m,Miracle in Cell No. 7
+Simon Cellan Jones,"Adventure,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/zkKB3kOun5DKAkm61pHvLbrjxfa.jpg,79,2024,1h 47m,Arthur the King
+Michael Radford,"Comedy,Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cUaCpjVDefYShKyLmkcDsiPaBHn.jpg,79,1994,1h 49m,The Postman
+Hayao Miyazaki,"Adventure,Animation,Fantasy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/tcrkfB8SRPQCgwI88hQScua6nxh.jpg,79,2004,1h 57m,Nausicaä of the Valley of the Wind
+Martin Scorsese,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bw3oEvjTyYDIskMpsWHbKMnAjtR.jpg,79,1981,2h 9m,Raging Bull
+Zhang Yimou,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lZO3T1LwJDcshRqyG9qVMnlljaD.jpg,79,1991,2h 5m,Raise the Red Lantern
+Joel Coen,"Crime,Drama,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bj1v6YKF8yHqA489VFfnQvOJpnc.jpg,79,2007,2h 2m,No Country for Old Men
+Ridley Scott,"Science Fiction,Drama,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg,79,1982,1h 58m,Blade Runner
+Michelangelo Antonioni,"Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/oMXUmRs774wKN4MpGLKtMSslgq5.jpg,79,1961,2h 2m,La Notte
+Luis Buñuel,"Comedy,Drama,Fantasy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/qqZXHvBFxUpo8Pfbyvgh4SYMiWm.jpg,79,1966,1h 34m,The Exterminating Angel
+Randall Wallace,"Action,Drama,History,War",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/or1gBugydmjToAEq7OZY0owwFk.jpg,79,1995,2h 57m,Braveheart
+Ingmar Bergman,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/a1bMgB09YDvvRN9SitCclUYragr.jpg,79,1973,1h 35m,Cries and Whispers
+James Cameron,"Action,Thriller,Science Fiction",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg,79,1986,2h 17m,Aliens
+Sarah Smith,"Animation,Science Fiction,Family,Comedy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/plzgQAXIEHm4Y92ktxU6fedUc0x.jpg,79,2021,1h 47m,Ron's Gone Wrong
+Majid Majidi,"Drama,Family",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/h3PdFeciIlykn9kkONn9cwmr80h.jpg,79,1999,1h 29m,Children of Heaven
+Pete Docter,"Animation,Family,Adventure,Drama,Comedy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg,79,2015,1h 35m,Inside Out
+Danny Boyle,"Drama,Crime",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yKmmT0q35R4AfW9Rbq2IPVAPwk3.jpg,80,1996,1h 34m,Trainspotting
+Akira Kurosawa,"Action,Adventure,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bIOrDQ3Gg68k3qJAnRU7nIZr0BW.jpg,80,1977,2h 21m,Dersu Uzala
+Sion Sono,"Action,Comedy,Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3QSGUdzG374H7pOxIdKNBpeLEUk.jpg,80,2009,3h 57m,Love Exposure
+Quentin Tarantino,"Action,Crime",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg,80,2003,1h 51m,Kill Bill: Vol. 1
+Stan Lee,"Action,Adventure,Science Fiction",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg,80,2021,2h 28m,Spider-Man: No Way Home
+Mikhail Kalatozov,"Drama,Romance,War",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/foXYOdXEJ0rvtTDo4LLnsUnvPLB.jpg,80,1957,1h 37m,The Cranes Are Flying
+Andaç Haznedaroğlu,"Drama,Music",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bwvoSRyXRRqtpvoHYhySQk2U4EM.jpg,80,2022,1h 52m,My Father's Violin
+Levan Tsikurishvili,"Music,Documentary",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/52Q4HLe2U79O1QkskIy2JdEyeEv.jpg,80,2017,1h 37m,Avicii: True Stories
+Nacho G. Velilla,Comedy,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rG7rDoTe1ZEa936eonDCkV76nkx.jpg,80,2019,1h 42m,No Manches Frida 2
+Buster Keaton,"Comedy,Action,Adventure,War",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nIp4gIXogCjfB1QABNsWwa9gSca.jpg,80,1984,1h 19m,The General
+Domingo González,"Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/w46Vw536HwNnEzOa7J24YH9DPRS.jpg,80,2023,1h 57m,My Fault
+Mamoru Hosoda,"Action,Adventure,Animation,Drama,Family,Fantasy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kzKJxfIdZ70nsPfKyq7hlYlJwSx.jpg,80,2016,1h 59m,The Boy and the Beast
+Richard Linklater,"Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kf1Jb1c2JAOqjuzA3H4oDM263uB.jpg,80,1995,1h 41m,Before Sunrise
+Makoto Shinkai,"Animation,Drama,Adventure,Fantasy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/oNbCAM3UVJamxRFd5hUt686aqb2.jpg,80,2023,2h 3m,Suzume
+Ilya Naishuller,"Action,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/oBgWY00bEFeZ9N25wWVyuQddbAo.jpg,80,2021,1h 32m,Nobody
+Aldo Baglio,Comedy,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yhgfM1WTHu4Uiwa47FAGmBk4V7x.jpg,80,1997,1h 38m,Three Men and a Leg
+Hirokazu Kore-eda,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kDUUdWrbBBVqzSmm27pHFJcTvCU.jpg,80,2005,2h 21m,Nobody Knows
+Alfred Hitchcock,"Thriller,Crime,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9ar6rxLDB8kagAnXZKn6h9smscr.jpg,80,1984,1h 21m,Rope
+Jean-Pierre Melville,"War,History,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/aqNZWM9bspt8zaDvVRIRiWxRVJ7.jpg,80,1969,2h 25m,Army of Shadows
+Daniel Ribeiro,"Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vrcExEZLBuEQMpZw9SC47MurzYZ.jpg,79,2014,1h 36m,The Way He Looks
+Akira Kurosawa,"Drama,Action,Comedy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/zW47oIH3bc3ggmmmzTvKqM4Fqjk.jpg,80,2000,1h 36m,Sanjuro
+M. Night Shyamalan,"Mystery,Thriller,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4AfSDjjCy6T5LA1TMz0Lh2HlpRh.jpg,80,1999,1h 47m,The Sixth Sense
+Clint Eastwood,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2ti3l1OeB8G94yyqfAI7nmMZUbA.jpg,80,2005,2h 12m,Million Dollar Baby
+Katsuhiro Otomo,"Animation,Science Fiction,Action",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg,79,1990,2h 4m,Akira
+Akira Kurosawa,"Drama,Action,Adventure",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/1RTp3EZrKg7xj1HJK2x4Rqknnnu.jpg,80,1958,2h 19m,The Hidden Fortress
+Robert Bresson,"Drama,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gkoZ8fFib24zhB2DKpjQ09SK9FU.jpg,79,1956,1h 41m,A Man Escaped
+Carl Mayer,"Drama,Horror,Thriller,Crime",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/myK9DeIsXWGKgUTZyGXg2IfFk0W.jpg,79,1920,1h 18m,The Cabinet of Dr. Caligari
+John Sturges,"Adventure,Drama,History,Thriller,War",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gBH4H8UMFxl139HaLz6lRuvsel8.jpg,79,1963,2h 53m,The Great Escape
+Arturo Brachetti,Comedy,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2mMh8PANuGUHXpoVVORmvkGol6f.jpg,80,1999,2h,Tel chi el telùn
+Michael Crichton,"Adventure,Science Fiction",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/oU7Oq2kFAAlGqbU4VoAE36g4hoI.jpg,79,1993,2h 7m,Jurassic Park
+Hiromasa Yonebayashi,"Animation,Drama,Family,Mystery",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/at7lShVfMdohEzC1VZYTZXY0hzP.jpg,79,2015,1h 43m,When Marnie Was There
+Siân Heder,"Drama,Music,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/BzVjmm8l23rPsijLiNLUzuQtyd.jpg,79,2021,1h 52m,CODA
+Lilian Lee,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/f54hNIiHNINw3JiUJB2XaQl5wCN.jpg,79,1994,2h 51m,Farewell My Concubine
+Amma Asante,"War,Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/omKzydOrom9kpdfQUE0G9Y9sPl0.jpg,79,2019,2h 2m,Where Hands Touch
+Eva Longoria,"Comedy,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/a7KyFMPXj0iY4EoLq1PIGU1WJPw.jpg,79,2023,1h 39m,Flamin' Hot
+Jean-Marc Vallée,"Drama,History",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7Fdh7gUq3plvQqxRbNYhWvDABXA.jpg,79,2014,1h 57m,Dallas Buyers Club
+Gérard Oury,"Comedy,War",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/91l4Sf3WJwrb0tSVPsOqnBXG8E6.jpg,79,1966,2h 12m,Don't Look Now... We're Being Shot At!
+Jojo Moyes,"Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/Ia3dzj5LnCj1ZBdlVeJrbKJQxG.jpg,79,2016,1h 50m,Me Before You
+Brad Bird,"Family,Animation,Science Fiction,Adventure",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ct04FCFLPImNG5thcPLRnVsZlmS.jpg,79,2000,1h 26m,The Iron Giant
+Georges Méliès,"Adventure,Science Fiction",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9o0v5LLFk51nyTBHZSre6OB37n2.jpg,79,1907,15m,A Trip to the Moon
+Mamoru Oshii,"Action,Animation,Science Fiction",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9gC88zYUBARRSThcG93MvW14sqx.jpg,79,1995,1h 22m,Ghost in the Shell
+Louie Psihoyos,Documentary,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/enQGYgQg8mEhkZnY2g9iEwH9qvZ.jpg,79,2009,1h 32m,The Cove
+Krzysztof Kieślowski,"Drama,Mystery,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/JHmsBiX1tjCKqAul1lzC20WcAW.jpg,79,1994,1h 40m,Three Colors: Red
+Sunao Katabuchi,"Drama,Animation,Romance,War,History",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9Z4H4M2F8OQTB04YC1Opds8MFBb.jpg,79,2017,2h 10m,In This Corner of the World
+Don Hertzfeldt,"Animation,Comedy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hop0dsM4nxyNENGhBhpJWTCJ5rS.jpg,79,2024,1h 2m,It's Such a Beautiful Day
+Steven Spielberg,"Adventure,Action",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ceG9VzoRAVGwivFU403Wc3AHRys.jpg,79,1981,1h 55m,Raiders of the Lost Ark
+Richard Curtis,"Drama,Romance,Fantasy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/iR1bVfURbN7r1C46WHFbwCkVve.jpg,79,2013,2h 3m,About Time
+Federico Fellini,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xyisVfPrNybDieMp1nbCv6iBtdV.jpg,79,2006,1h 55m,La Strada
+Clint Eastwood,Western,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/54roTwbX9fltg85zjsmrooXAs12.jpg,79,1993,2h 10m,Unforgiven
+Alfred Hitchcock,"Mystery,Romance,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/1qz3qUOHnVy7dL7M7G8jSErxE4b.jpg,79,1982,2h 10m,Rebecca
+Thomas Carter,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4NxxtiqezjUmUxoDTOjO5FeJvFt.jpg,78,2009,1h 26m,Gifted Hands: The Ben Carson Story
+Michael Mann,"Action,Crime,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/umSVjVdbVwtx5ryCA2QXL44Durm.jpg,79,1996,2h 50m,Heat
+Roman Polanski,"Crime,Drama,Mystery,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/638pmIZ6SE5myFwHnGInI5YdcDh.jpg,79,1974,2h 10m,Chinatown
+Andrea Berloff,"Drama,Music,History",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9B63hMwU6iICtNDTISCaZQ5US7R.jpg,78,2015,2h 27m,Straight Outta Compton
+Denis Villeneuve,"Science Fiction,Adventure",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/d5NXSklXo0qyIYkgV94XAgMIckC.jpg,78,2021,2h 35m,Dune
+Francis Veber,Comedy,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jCOCdWIim6upzteYswh8BpcsKWg.jpg,78,1999,1h 20m,The Dinner Game
+Daniel Kwan,"Action,Adventure,Science Fiction",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/w3LxiVYdWWRvEVdn5RYq6jIqkb1.jpg,78,2022,2h 20m,Everything Everywhere All at Once
+Alex Kendrick,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/unxQeVUi5DH01r7ZNvAHwpvX7UK.jpg,78,2015,2h,War Room
+Lukas Dhont,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hjoSRso1ZslGWHowrVtBIfNT56b.jpg,78,2023,1h 44m,Close
+Mamoru Hosoda,"Fantasy,Animation,Drama,Science Fiction",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xHnlWM8BmqY419YUccYy2KC5Jqo.jpg,78,2008,1h 38m,The Girl Who Leapt Through Time
+Peter Sohn,"Animation,Family,Comedy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/oqYX2AJV53ibLVPrUZ1Z5XlGv5U.jpg,78,2009,5m,Partly Cloudy
+John R. Dilworth,"Animation,Comedy,Mystery,Family,Fantasy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rlQJnQfPgaSGQtyMw35VOIqoIsj.jpg,78,2021,1h 12m,Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog
+Nick Park,"Animation,Comedy,Family",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wRTCxYHx1d9diFFmOHQZT7CjdUV.jpg,78,1994,30m,The Wrong Trousers
+Claude Barras,"Animation,Comedy,Drama,Family,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/g91phMUr77Vw6uRmpIjH1hvZpov.jpg,78,2016,1h 6m,My Life as a Zucchini
+Maïwenn,"Drama,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cKs3XSFVbFeZcH3g9geAvr6ApOl.jpg,78,2011,2h 3m,Polisse
+Guel Arraes,"Comedy,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cZoykE7XMqPBdZBfM6ncSVMT8Wh.jpg,78,2003,1h 46m,Lisbela and the Prisoner
+Satoshi Kon,"Animation,Science Fiction,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bLUUr474Go1DfeN1HLjE3rnZXBq.jpg,78,2007,1h 30m,Paprika
+Vincent Patar,"Animation,Comedy,Drama,Family,Adventure",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/iJPbRASktYW0I009Ktc2zUE6Fvg.jpg,78,2014,1h 18m,Ernest & Celestine
+Elio Petri,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gulAszCUPjuBtDd6NudgLTBu3i5.jpg,78,1971,1h 53m,The Working Class Goes to Heaven
+José Padilha,"Drama,Action,Crime",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/c7yCrf3PTSdp6RMGktZQhzFcFFM.jpg,78,2011,1h 55m,Elite Squad: The Enemy Within
+Terry Jones,"Adventure,Comedy,Fantasy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xZ0rC0kuIsjk6RncpNK73kwstEP.jpg,78,1975,1h 31m,Monty Python and the Holy Grail
+Don Hertzfeldt,"Animation,Drama,Science Fiction",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5s7DSOek7Bk2CvcG1zX01bJzJ0x.jpg,78,2015,17m,World of Tomorrow
+Sean Penn,"Adventure,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2MSGZEE6XZd2r4ODNziwAw7Hpw0.jpg,78,2007,2h 28m,Into the Wild
+Kabir Khan,"Comedy,Drama,Action",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rNfToRJw35h7a4y6HXGRgfkLvdc.jpg,78,2015,2h 39m,Bajrangi Bhaijaan
+Kim Ki-duk,"Drama,Romance,Crime",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/myv6rYCghzi2lyWJLbdhZM43JYK.jpg,78,2004,1h 28m,3-Iron
+John H. Lee,"Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/s9ulpxLbkeJTTYxqLVUl6PreLGN.jpg,78,2004,1h 57m,A Moment to Remember
+Kim Jee-woon,"Thriller,Horror",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/zp5NrmYp80axIGiEiYPmm1CW6uH.jpg,78,2011,2h 24m,I Saw the Devil
+Gore Verbinski,"Adventure,Fantasy,Action",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/poHwCZeWzJCShH7tOjg8RIoyjcw.jpg,78,2003,2h 23m,Pirates of the Caribbean: The Curse of the Black Pearl
+Ariel Winograd,Comedy,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/maqsygPJvhESIOQGclUAEEWxNC.jpg,78,2019,2h,Tod@s Caen
+Marco Tullio Giordana,"Drama,History",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dpQpjLslfQlpDv7eCVRDPQAKgqs.jpg,78,2000,1h 54m,One Hundred Steps
+William Wyler,"Drama,Romance,War",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gd5EoAU4MM57sW3vlWxJ0NMM8cV.jpg,78,1946,2h 51m,The Best Years of Our Lives
+Martin Zandvliet,"War,Drama,History",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7TOYH2VDnYbXpBKlrkdQZUSC3Du.jpg,78,2016,1h 40m,Land of Mine
+Wes Anderson,"Adventure,Animation,Comedy,Family",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/t5v2Zsb5sa6PSP9jMUWY4GdIb3c.jpg,78,2010,1h 27m,Fantastic Mr. Fox
+Ang Lee,"Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5UZ283LuT8ClE4Iqw3u4gGZizab.jpg,78,2006,2h 14m,Brokeback Mountain
+Claudio Caligari,"Crime,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/taSfNqBkM6fVexayWLKcqHxMg7a.jpg,78,2015,1h 40m,Don't Be Bad
+Lee Won-tae,"Crime,Action,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/oHlM4abRm6BzrRcz9Nup1uidw9H.jpg,78,2019,1h 50m,"The Gangster, the Cop, the Devil"
+Lee Unkrich,"Animation,Family,Comedy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg,78,2010,1h 43m,Toy Story 3
+Kazuhisa Takenouchi,"Animation,Science Fiction,Music,Adventure",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2lhOV8CCqsiGL1aIFvQzI0WLTek.jpg,78,2011,1h 6m,Interstella 5555: The 5tory of the 5ecret 5tar 5ystem
+Curtis Hanson,"Crime,Mystery,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lWCgf5sD5FpMljjpkRhcC8pXcch.jpg,78,1997,2h 18m,L.A. Confidential
+Hayao Miyazaki,"Family,Comedy,Animation,Adventure",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8mIvSvnVBApfORL9N6S38Q7wD6A.jpg,78,2005,1h 33m,Porco Rosso
+Jean-Pierre Melville,"Crime,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5Fa6o5nfUPEatQ9b3OwEvdEdR7T.jpg,78,1967,1h 45m,Le Samouraï
+Wim Wenders,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/tvUHVSTJV9ITON3oyHaWp7oaAc8.jpg,78,2024,2h 4m,Perfect Days
+Stephen Chbosky,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/aKCvdFFF5n80P2VdS7d8YBwbCjh.jpg,78,2012,1h 43m,The Perks of Being a Wallflower
+Ariel Winograd,"Comedy,Thriller,Crime",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/1zL4VCVin4S8kOXhszMDqfwWPCM.jpg,78,2020,1h 54m,The Heist of the Century
+Matt Youngberg,"Animation,Action,Science Fiction,TV Movie",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4wMlDE1HzkVyYeDKuY1oDOWQlN2.jpg,78,2006,1h 15m,Teen Titans: Trouble in Tokyo
+Ingmar Bergman,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rYD30Fm4vAcBqk1kTsxHw1s8P29.jpg,78,1961,1h 31m,Through a Glass Darkly
+Martin Scorsese,"Drama,Comedy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3BM78deUfeZfShqPTblZuamgC8a.jpg,78,1983,1h 49m,The King of Comedy
+Ruggero Maccari,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ip3HL5H65pYjWbkwX9aLApDdGI3.jpg,78,1993,2h 36m,Scent of a Woman
+Guy Ritchie,"War,Action,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kVG8zFFYrpyYLoHChuEeOGAd6Ru.jpg,78,2023,2h 3m,Guy Ritchie's The Covenant
+Laura Poitras,Documentary,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nOVhX69EAxtSKEEnr5UcSd5UVci.jpg,77,2015,1h 54m,Citizenfour
+Rich Moore,"Animation,Adventure,Family,Comedy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg,77,2016,1h 49m,Zootopia
+Lewis Milestone,"Drama,War",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/1wZUB08igw8iLUgF1r4T6aJD65b.jpg,78,1930,2h 13m,All Quiet on the Western Front
+Kang Yun-sung,"Action,Crime,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pUd1FYQb5r55RqXpx08dnCbP1fs.jpg,77,2017,2h 1m,The Outlaws
+Dario Argento,"Horror,Mystery,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wq7RxV5gMvgO0EKeWpNhegnpJBh.jpg,78,1975,2h 7m,Deep Red
+Bruno Garotti,"Romance,Comedy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dVqRATKlpCoWy96lfxiHc9TY9An.jpg,77,2020,1h 44m,Rich in Love
+Woody Allen,"Comedy,Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/k4eT3EvfxW1L9Wmt04UqJqCvCR6.jpg,77,1979,1h 36m,Manhattan
+Christophe Barratier,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hUl7gSvkGygyk9wt3zy5NqpC5bb.jpg,77,2005,1h 37m,The Chorus
+John Huston,"Mystery,Crime,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bf4o6Uzw5wqLjdKwRuiDrN1xyvl.jpg,77,1943,1h 40m,The Maltese Falcon
+William A. Wellman,"Western,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/mAiDUTELbMUJKOTroJLrbYMBk3i.jpg,77,1943,1h 16m,The Ox-Bow Incident
+Ron Howard,"Drama,Action",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5akKFgS7eeXUw9rKTEujryKrH17.jpg,77,2013,2h 3m,Rush
+Chris Columbus,"Adventure,Fantasy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg,77,2002,2h 41m,Harry Potter and the Chamber of Secrets
+Roman Polanski,"Thriller,Horror,Mystery",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4Qhzb1ICFMqE3isWoln497qSH7n.jpg,76,1976,2h 6m,The Tenant
+René Laloux,"Animation,Science Fiction",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/prq0j1S0K07UjwLZLF6oMGflRUI.jpg,77,1973,1h 12m,Fantastic Planet
+Jon Favreau,"Action,Science Fiction,Adventure",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/78lPtwv72eTNqFW9COBYI0dWDJa.jpg,76,2008,2h 6m,Iron Man
+Sergei Eisenstein,"Drama,History,War",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/tjnaRiHUsxBADaOwrQpnTnjHVwi.jpg,76,1925,1h 15m,Battleship Potemkin
+Norman Jewison,"Crime,Drama,Mystery,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fvqHTabYej3LwzKRRZCm6jV3g0O.jpg,76,1968,1h 49m,In the Heat of the Night
+Richard Schenkman,"Science Fiction,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/V086R82gNgWrotaXZFO4JhdgB1.jpg,76,2008,1h 27m,The Man from Earth
+Sebastian Schipper,"Crime,Thriller,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9P8QgfoMcFX7vp2Gj2cYFecHVRZ.jpg,76,2015,2h 18m,Victoria
+Kanji Wakabayashi,"Science Fiction,Animation,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bXhogkZCR0aOQ077rfMULYbDmtH.jpg,76,2017,1h 30m,Steins;Gate: The Movie - Load Region of Déjà Vu
+Keishi Otomo,"Action,Adventure,Drama,Fantasy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gI2xYpJPQOsmFblvowkW2IgEHkC.jpg,76,2014,2h 18m,Rurouni Kenshin Part II: Kyoto Inferno
+Matthew Vaughn,"Crime,Comedy,Action,Adventure",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/r6q9wZK5a2K51KFj4LWVID6Ja1r.jpg,76,2015,2h 9m,Kingsman: The Secret Service
+Luis Buñuel,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yFnUCrPY3ffjkqOkOupLro3sO7X.jpg,76,1963,1h 30m,Viridiana
+Fritz Lang,"Crime,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/n1xdAX2g6PU3aqQXmZtY9gXvvEz.jpg,76,1953,1h 29m,The Big Heat
+Marc Haimes,"Animation,Adventure,Family",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/la6QA9tk4Foq8OBH2Dyh5dTcw6H.jpg,76,2016,1h 42m,Kubo and the Two Strings
+Alfonso Cuarón,"Drama,Family,Fantasy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9V4bAVEskSNbEqjVI0YmeuB0n8I.jpg,76,1995,1h 37m,A Little Princess
+Matthew A. Cherry,"Animation,Family,Comedy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pm9uRa7031Z56unxNE8AqE8f2wg.jpg,76,2019,7m,Hair Love
+Toshiyuki Kubooka,"Action,Adventure,Drama,Fantasy,Animation",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bnUFAGt3i6YqDGgNe7q6Jw26QvS.jpg,76,2014,1h 50m,Berserk: The Golden Age Arc III - The Advent
+Steven Spielberg,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/h7llKkqkkJtJrTOaDLuVeUYDQ7I.jpg,76,2023,2h 31m,The Fabelmans
+Richard Brooks,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vWf1AR8rC6WjGKELlmLv2VAUZJB.jpg,76,1958,1h 48m,Cat on a Hot Tin Roof
+Guy Ritchie,"Crime,Action,Adventure,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/M7SUK85sKjaStg4TKhlAVyGlz3.jpg,76,2021,1h 59m,Wrath of Man
+Tony Kaye,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lw1wlekuMMKxmYg7v01vB7Snkq6.jpg,76,2011,1h 38m,Detachment
+Paul Thomas Anderson,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wnE24UPCPQsQnbBOu4zVE2qaDNm.jpg,76,1998,2h 36m,Boogie Nights
+Thomas Vinterberg,"Comedy,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/aDcIt4NHURLKnAEu7gow51Yd00Q.jpg,76,2021,1h 57m,Another Round
+Fletcher Moules,"Animation,Romance,Music",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cfXbwPWwlmMhC45asWxCWq3Utwa.jpg,76,2022,1h 34m,Entergalactic
+John Ford,"Western,Adventure",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/b4RUzWOalyPbUu66TT147b5iR0M.jpg,76,1939,1h 36m,Stagecoach
+Jean-Pierre Melville,"Crime,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/w56La43IJnGpLepgqfGCAZsbQPp.jpg,76,1970,2h 20m,Le Cercle Rouge
+Lukas Moodysson,"Crime,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5i1uhvcdv2Iogx0Bb1znvUmkCvN.jpg,76,2002,1h 49m,Lilya 4-ever
+Ernest Lehman,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4SzW8u7avVczndyR3UbU87ZpE0V.jpg,76,1957,1h 37m,Sweet Smell of Success
+Enzo Monteleone,"Comedy,Romance,War",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/omFU47TZSR7xAAZcDHKM48SmVwe.jpg,76,1991,1h 36m,Mediterraneo
+W. Bruce Cameron,"Adventure,Comedy,Fantasy,Family,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3jcNvhtVQe5Neoffdic39fRactM.jpg,76,2017,1h 40m,A Dog's Purpose
+George Cukor,"Comedy,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dKUubjvxO78XDts6VP1Ggcp4R9O.jpg,76,1940,1h 53m,The Philadelphia Story
+Massimo Troisi,Comedy,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lS0X9KScgkUbhiu6lOHBya8z9R2.jpg,76,1981,1h 47m,I'm Starting from Three
+George Nolfi,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/biXzsw22U6vSd0XktmZwAOc4uik.jpg,76,2020,2h,The Banker
+Bernardo Bertolucci,"Drama,History",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7TILJhdeJAaEyDiwvJZMo9SQBoe.jpg,76,1987,2h 43m,The Last Emperor
+Boaz Yakin,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/825ohvC4wZ3gCuncCaqkWeQnK8h.jpg,76,2001,1h 53m,Remember the Titans
+Otto Preminger,"Drama,Mystery",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/j0zEiFFrdbZnMXqD3piOtZBJeNB.jpg,76,1945,1h 28m,Laura
+Víctor Erice,"Drama,Fantasy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/p2wx4EWasQaPGxnbS2IsW74ewVN.jpg,76,1973,1h 39m,The Spirit of the Beehive
+Reginald Rose,"Crime,Drama,TV Movie",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/whDdYx3lh1LHTN0VlPFt51fX29g.jpg,76,1997,1h 57m,12 Angry Men
+Ramón Menéndez,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/A9pfzwk02iNl6i9wyk8lNcBkvc.jpg,76,1988,1h 43m,Stand and Deliver
+Jasmila Žbanić,"War,Drama,History",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/eQy2Tgvmx0FkK8vMMqMW4aX5UXQ.jpg,76,2022,1h 44m,"Quo Vadis, Aida?"
+Alejandro González Iñárritu,"Drama,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/mXc2QcFXUTQz2wU7S0zgeG5C3Bg.jpg,76,2000,2h 34m,Amores Perros
+Frank Capra,"Comedy,Crime",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xG1GEEQGgExKl0WT5sRo1Arst5D.jpg,76,1944,1h 58m,Arsenic and Old Lace
+Billy Wilder,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8ggIOoCzt8xT2ePl8DdlRtXgcOh.jpg,76,1945,1h 41m,The Lost Weekend
+Elia Kazan,"Drama,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/aicdlO5vt7z2ARm279eGzJeYCLQ.jpg,76,1951,2h 5m,A Streetcar Named Desire
+Rodolfo Riva Palacio Alatriste,"Animation,Adventure,Comedy,Family",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8xCO3IarklLD4tK1rPn0e4gSMoV.jpg,76,2022,1h 31m,Little Eggs: A Frozen Rescue
+Roger Donaldson,"Drama,Adventure,History",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/i7obsEYXjo725H9vneFqxxUiZw7.jpg,76,2005,2h 7m,The World's Fastest Indian
+Mario Monicelli,Comedy,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/41SuhxZJHPMT1heh6zxi6AjeC4M.jpg,76,1982,2h 10m,My Friends Act II
+Xavier Dolan,"Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/d8BpJ9qOQE7VFFqaV1XDdGfMsP7.jpg,76,2012,2h 48m,Laurence Anyways
+Pedro Almodóvar,"Comedy,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hjQhzhkGYXPNM96k0mOgob6HMmn.jpg,76,1999,1h 41m,All About My Mother
+Joe Wright,"Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hMRIyBjPzxaSXWM06se3OcNjIQa.jpg,76,2007,2h 3m,Atonement
+Hirokazu Kore-eda,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fzSDVHdDL6Oqv7NWAUikoRxSHmp.jpg,76,2013,2h,"Like Father, Like Son"
+Vadim Perelman,"War,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ppReRGszmdZC2194keN4cGoLIPQ.jpg,76,2021,2h 7m,Persian Lessons
+Kheiron,Comedy,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/sJJWdXTi7ybxLd3mSILD7XxwYzh.jpg,77,2018,1h 40m,Bad Seeds
+Joe Johnston,"Drama,Family",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pBejcCxQ3WQW0cWmgjpFOoLWMuS.jpg,76,1999,1h 48m,October Sky
+Ron Clements,"Animation,Family,Adventure,Fantasy,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/oakAd8syy7jNQ4ZoaAGCQkTqcOV.jpg,77,1993,1h 35m,Aladdin
+Jennifer Niven,"Romance,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4SafxuMKQiw4reBiWKVZJpJn80I.jpg,77,2020,1h 48m,All the Bright Places
+Cess Silvera,"Action,Adventure,Crime,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/chh2xSTVtMCFyFePm1zRbBmtqaX.jpg,77,2002,1h 35m,Shottas
+Peter Bogdanovich,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7NYePZc0lZrRomtmQsjOJMePTEb.jpg,77,1972,1h 59m,The Last Picture Show
+Giacomo Poretti,Comedy,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/qCBmNunSpKRlPyjOZXbqTN1usTH.jpg,77,2000,1h 40m,Ask Me If I'm Happy
+Mike Nichols,"Drama,Romance,Comedy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/qtVvdSsm2hvau6ItLe4gWdFKe2M.jpg,77,1968,1h 46m,The Graduate
+Peter Sohn,"Animation,Comedy,Family,Fantasy,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4Y1WNkd88JXmGfhtWR7dmDAo1T2.jpg,77,2023,1h 42m,Elemental
+Franklin J. Schaffner,"Science Fiction,Adventure,Drama,Action",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2r9iKnlSYEk4daQadsXfcjHfIjQ.jpg,77,1968,1h 52m,Planet of the Apes
+Marian Bushan,"War,Action,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/295gZzTXMvuiIG0U19h4M44PXxI.jpg,77,2022,2h,Sniper: The White Raven
+Robert Zemeckis,"Adventure,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7lLJgKnAicAcR5UEuo8xhSMj18w.jpg,77,2001,2h 23m,Cast Away
+Stanley Kubrick,"Crime,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/A6VzUPcADZGYdGHlVdWvpMNDF5d.jpg,77,2013,1h 25m,The Killing
+Bernardo Bertolucci,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nLJjFRqIJAK8qz0OKYnpKCblZNK.jpg,77,1971,1h 48m,The Conformist
+Guy Ritchie,"Action,Crime,Comedy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jtrhTYB7xSrJxR1vusu99nvnZ1g.jpg,77,2020,1h 53m,The Gentlemen
+Maya Deren,"Mystery,Fantasy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pRLqidsUdxYM5pXLJ9mqm2n9U9K.jpg,77,1943,14m,Meshes of the Afternoon
+Keishi Otomo,"Action,Adventure,Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rODS466qSdrwMlGdbUwPENhDN2c.jpg,77,2021,2h 18m,Rurouni Kenshin: The Beginning
+Christine Cynn,Documentary,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wg9QERtcZTTcOu6La3nZCfJUMHG.jpg,77,2012,2h 39m,The Act of Killing
+Joseph L. Mankiewicz,"Thriller,Mystery,Crime,Comedy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jAREYLUnYGwPjbQr0vs1s38QLkH.jpg,77,1972,2h 18m,Sleuth
+Terry Gilliam,"Comedy,Science Fiction",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/d0PibPzCK4fVikjoD1PqHovbvkt.jpg,77,1985,2h 23m,Brazil
+Kleber Mendonça Filho,"Mystery,Western,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/tBa4zMGzZUco26XT3WfZZCwQ76i.jpg,77,2019,2h 11m,Bacurau
+Fred Zinnemann,"Western,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/m3EzjFuSK49woacPF1PyHcNM39B.jpg,77,2004,1h 25m,High Noon
+Alan Parker,"Drama,Crime",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/otzHnhXba5XsE6Gozl3Gzks0z8L.jpg,77,1988,2h 8m,Mississippi Burning
+Matt Reeves,"Crime,Mystery,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/74xTEgt7R36Fpooo50r9T25onhq.jpg,77,2022,2h 57m,The Batman
+Nora Fingscheidt,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/YqbeGd7ojtxRukKhvoq6Bgf4t8.jpg,77,2019,1h 58m,System Crasher
+Alfred Hitchcock,"Crime,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ihC083U7ef56Ui4x0P0dobojrZ1.jpg,77,2020,1h 41m,Strangers on a Train
+John L. Spencer,Comedy,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vXNvvb9RUXSZS08PvXxLtA9wrfV.jpg,77,2018,1h 19m,Ricky Gervais: Humanity
+Dana Stevens,"Action,Drama,History",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/438QXt1E3WJWb3PqNniK0tAE5c1.jpg,77,2022,2h 15m,The Woman King
+David Yates,"Adventure,Fantasy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5aOyriWkPec0zUDxmHFP9qMmBaj.jpg,77,2007,2h 18m,Harry Potter and the Order of the Phoenix
+Zaza Urushadze,"Drama,War",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jNKUXcwZr1vpgq7sGTCEqdngo4Z.jpg,77,2013,1h 27m,Tangerines
+Mario Monicelli,"Comedy,Adventure",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/SObRXKlirfDasmA6hdr9IMFNYt.jpg,77,1966,2h,For Love and Gold
+William Goldman,"Adventure,Family,Fantasy,Comedy,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dvjqlp2sAhUeFjUOfQDgqwpphHj.jpg,77,1988,1h 39m,The Princess Bride
+Stephan Lacant,"Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/77n2MlfdzgIlktWvvVS9Zvdx00q.jpg,77,2014,1h 37m,Free Fall
+Ciro Guerra,"Drama,Adventure",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/t3Lmw8jvm7tpik0lSkub8hU4oRW.jpg,77,2015,2h 5m,Embrace of the Serpent
+Robin Campillo,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/azLtGx5ZhdTSP2b4oNLWtiE51OW.jpg,77,2018,2h 23m,BPM (Beats per Minute)
+Gregory Nava,"Drama,Music,History",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/j8xX3yBAFOayfSaImgLZPnAcdWz.jpg,77,1997,2h 7m,Selena
+Stanley Kramer,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7oaHcF0gCOt2lKaT2zajhajP0Zo.jpg,77,1960,2h 8m,Inherit the Wind
+Houda Benyamina,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gOwIZPNFstt9BWUyekMzSF2Wzd1.jpg,77,2016,1h 45m,Divines
+Tomohiko Ito,"Animation,Action,Adventure,Fantasy,Science Fiction",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2szdEK0Mr0RG0nWGFVTseNQHbnP.jpg,77,2021,1h 59m,Sword Art Online: The Movie – Ordinal Scale
+Robert Wise,"Drama,Family,Music,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5qQTu2iGTiQ2UvyGp0beQAZ2rKx.jpg,77,1965,2h 54m,The Sound of Music
+Albert Lamorisse,"Comedy,Drama,Family,Fantasy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3XrEggEOEnKGi8hTOau44vcvbmV.jpg,77,1956,34m,The Red Balloon
+Margaret Scarciano,"Drama,History",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gQhQ6yEkUkDDo1zugpq46PJN8xZ.jpg,77,2010,1h 48m,Temple Grandin
+Jonathan Demme,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/tFe5Yoo5zT495okA49bq1vPPkiV.jpg,77,1994,2h 6m,Philadelphia
+Michel Ocelot,"Animation,Family",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ezkzULav0JxvLS5JOnQcjbUmfWO.jpg,77,2006,1h 39m,Azur & Asmar: The Princes' Quest
+Michael Grandage,"Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wdbiMjXd4CxPfCx4r4Jfy8cGec0.jpg,77,2022,1h 53m,My Policeman
+Harry Cripps,"Family,Animation,Adventure,Comedy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jbAUTO7qFN8XFG2LM3bz30vzGFJ.jpg,77,2021,1h 32m,Back to the Outback
+Andrei Tarkovsky,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8JMh27z075ZHbFE85XYkdXF2QkK.jpg,77,1986,2h 29m,The Sacrifice
+Bong Joon-ho,"Crime,Drama,Mystery",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8oBnSkZE6GDVugAbLPO6uJd4GcS.jpg,77,2009,2h 9m,Mother
+Mike Nichols,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wF7ihB5V5gSm6zxjv3ZhHOpgREI.jpg,77,1966,2h 11m,Who's Afraid of Virginia Woolf?
+Hirokazu Kore-eda,"Drama,Family",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/FWJbhAPdwiwKhUaAyz841jpYa1.jpg,77,2008,1h 54m,Still Walking
+Masaki Kobayashi,"Horror,Fantasy,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cfcIjq4V8GxtMN6GU3WnufTM9cD.jpg,77,2006,3h 3m,Kwaidan
+Teddy Newton,"Animation,Family",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hn2tOtidoYZ0D56jR4yknpdP1mU.jpg,77,2010,6m,Day & Night
+Mamoru Hosoda,"Animation,Science Fiction,Drama,Music",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fYHOD4pxZQk4rsP2tQrZI5uBlZV.jpg,77,2022,2h 2m,Belle
+John Ford,Western,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jLBmgW0epNzJ1N9uzaVCjbyT94v.jpg,77,1956,1h 59m,The Searchers
+Kelsey Mann,"Animation,Family,Adventure,Comedy,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg,77,2024,1h 37m,Inside Out 2
+Raoul Peck,Documentary,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/zwd0Zti7BvY1mO0mTPzM0fRrtc6.jpg,77,2017,1h 33m,I Am Not Your Negro
+Sergio Leone,Western,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nWmAtZf83qpOai0fzehf7Hn1S3R.jpg,77,1973,2h 37m,"Duck, You Sucker"
+Kenny Ortega,"Family,TV Movie,Adventure,Fantasy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7IRy0iHdaS0JI3ng4ZYlk5gLSFn.jpg,77,2019,1h 46m,Descendants 3
+Tim Burton,"Fantasy,Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/e0FqKFvGPdQNWG8tF9cZBtev9Em.jpg,77,1991,1h 45m,Edward Scissorhands
+Thomas Vinterberg,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2LRzNq41yrY8EjCnD1S8sCCPvKk.jpg,77,1998,1h 45m,The Celebration
+Alexander Payne,"Comedy,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/VHSzNBTwxV8vh7wylo7O9CLdac.jpg,77,2024,2h 13m,The Holdovers
+Nacho G. Velilla,Comedy,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6HfyXfIEywLa2HvcswKi44dDKxL.jpg,77,2016,1h 40m,No Manches Frida
+Joss Whedon,"Science Fiction,Action,Adventure",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg,77,2012,2h 23m,The Avengers
+Terry George,"Drama,History,War",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/p3pHw85UMZPegfMZBA6dZ06yarm.jpg,77,2005,2h 1m,Hotel Rwanda
+Bill Melendez,"Animation,Family,Comedy,TV Movie",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vtaufTzJBMJAeziQA1eP4BLU24C.jpg,77,1965,25m,A Charlie Brown Christmas
+Rainer Werner Fassbinder,"Romance,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5Oru4v8tRUN90JUuM6BNDJoetLt.jpg,77,1974,1h 33m,Ali: Fear Eats the Soul
+J. M. DeMatteis,"Fantasy,Animation,Horror,Action",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/tZIMe2pYug1cS9e7AZnd1bTTidM.jpg,77,2018,1h 30m,Constantine: City of Demons - The Movie
+Dean Fleischer Camp,"Animation,Comedy,Family",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jaYmP4Ct8YLnxWAW2oYkUjeXtzm.jpg,77,2023,1h 30m,Marcel the Shell with Shoes On
+Timothy Conigrave,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vxORWSHeLpsK8jDyFWuJifKacsj.jpg,77,2015,2h 8m,Holding the Man
+Dan Trachtenberg,"Thriller,Action,Science Fiction",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ujr5pztc1oitbe7ViMUOilFaJ7s.jpg,77,2022,1h 40m,Prey
+Thiago Cazado,"Comedy,Romance,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2o0pzmuQKFhuPnz4hvpfjd3BlNR.jpg,77,2019,1h 23m,Cousins
+Mischa Kamp,"Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/khyK1mS3PoZ9q97VQ2BvR4YuNKN.jpg,77,2014,1h 18m,Boys
+Nishikant Kamat,"Crime,Mystery,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gIClWRv5OSe8rl5Koi0AeUcCZ9Z.jpg,77,2015,2h 43m,Drishyam
+Felix van Groeningen,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ohD87uTlwOgNuUEYaW82ew9Eds7.jpg,77,2023,2h 27m,The Eight Mountains
+Emir Kusturica,"Drama,Comedy,Crime,Fantasy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fF9kWNMjiXC6f4YrdVFA0ScnWgQ.jpg,77,1990,2h 22m,Time of the Gypsies
+David Lean,"Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jC9EwLJcGhYMSQAHu2LxkKN5v7O.jpg,77,1945,1h 26m,Brief Encounter
+David Yates,"Adventure,Fantasy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/z7uo9zmQdQwU5ZJHFpv2Upl30i1.jpg,77,2009,2h 33m,Harry Potter and the Half-Blood Prince
+Elisabeth Röhm,"Thriller,Crime,TV Movie",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/qmddUxRwbsxHa7oEXm4PWh1KZe8.jpg,77,2021,1h 28m,Girl in the Basement
+Dan Scanlon,"Family,Animation,Adventure,Comedy,Fantasy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/f4aul3FyD3jv3v4bul1IrkWZvzq.jpg,77,2020,1h 43m,Onward
+Lorna Cook,"Animation,Adventure,Comedy,Family,Drama,Western,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cUgYrz4twiJ3QgVGpRfey984NIB.jpg,77,2002,1h 23m,Spirit: Stallion of the Cimarron
+Brett Morgen,"Documentary,Music",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/r16TnsV7xgI6M2hbySzxWbT9zxe.jpg,77,2015,2h 12m,Cobain: Montage of Heck
+Wes Anderson,"Comedy,Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xrziXRHRQ7c7YLIehgSJY8GQBsx.jpg,77,2012,1h 34m,Moonrise Kingdom
+Emir Kusturica,"Comedy,Romance,Crime",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/eEo03ShmRlMh3wkt28KQ6GYlnTW.jpg,77,1998,2h 7m,"Black Cat, White Cat"
+Zhao Ji,"Romance,Animation,Fantasy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gyDV5LppSJtas1YIE3aVhhG1t5D.jpg,77,2019,1h 39m,White Snake
+Keishi Otomo,"Action,Adventure,History,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/eYZ9yOBXlkMmorvurGnQHQW3Zvu.jpg,77,2021,2h 18m,Rurouni Kenshin: The Final
+Petra Costa,Documentary,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/mIbPkZelgguJMPOx9vvCb5oqMxI.jpg,77,2019,2h 1m,The Edge of Democracy
+Michael Powell,"Romance,Fantasy,Drama,War",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/H74LWKnhOeIFSk9gNjBcPjIov3.jpg,77,1946,1h 44m,A Matter of Life and Death
+William Wyler,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/goyEWixvULM2IRN4KsKibyrJE4J.jpg,77,1961,1h 48m,The Children's Hour
+Charles Ferguson,"Documentary,Crime",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8fy2LWdZhfoM4xZ9QbHkjSpGjPX.jpg,77,2011,1h 49m,Inside Job
+Michael Govier,"Drama,Animation",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/85tDhACvKDQxQoJhBYLvDU0ik1n.jpg,77,2020,12m,If Anything Happens I Love You
+Ari Folman,"Drama,Animation,War,Documentary",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/zQaCv7lKwHsh0YSHkt1QNjIOZ1c.jpg,77,2008,1h 30m,Waltz with Bashir
+Fisher Stevens,Documentary,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2fFTLaLbm8Ak7JBSYQ8Mb3jcFx9.jpg,77,2016,1h 33m,Before the Flood
+Shinichiro Watanabe,"Action,Animation,Science Fiction",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7i9sIU6ASTw2zwvvNuM0FJzmpKs.jpg,77,2003,1h 55m,Cowboy Bebop: The Movie
+Claude Berri,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/t4ObdDKWHEPvKIxMr6E8s4nrshV.jpg,77,1987,2h,Jean de Florette
+Norman Jewison,"Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/qXIv5P7hUroBgn5lLkRcXYe7W4n.jpg,77,1971,3h 1m,Fiddler on the Roof
+Clint Eastwood,"Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/teGMLWvCnJqvtPYCSuUKRM9MvFe.jpg,77,1995,2h 15m,The Bridges of Madison County
+Billy Wilder,"Comedy,Drama,War",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lfve9FDKjT7JPbWI9NCs5340F79.jpg,77,1953,2h,Stalag 17
+Felix van Groeningen,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/negBN3VXOSmnSp4kncYJvCuJKf4.jpg,77,2013,1h 52m,The Broken Circle Breakdown
+Rajkumar Hirani,"Comedy,Drama,Science Fiction",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/z2x2Y4tncefsIU7h82gmUM5vnBJ.jpg,77,2014,2h 33m,PK
+Fannie Flagg,"Drama,Comedy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/g71l1vbJwyAAYk8zKCkIQQ58qcb.jpg,77,1992,2h 10m,Fried Green Tomatoes
+Keishi Otomo,"Action,Adventure,Drama,Fantasy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3Xq7xmYZwNJfSODpec6OzYaxaA3.jpg,77,2014,2h 15m,Rurouni Kenshin Part III: The Legend Ends
+F. W. Murnau,Horror,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/zv7J85D8CC9qYagAEhPM63CIG6j.jpg,77,1922,1h 35m,Nosferatu
+Dan Gilroy,"Crime,Drama,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/j9HrX8f7GbZQm1BrBiR40uFQZSb.jpg,77,2014,1h 58m,Nightcrawler
+Aaron Sorkin,"Drama,History",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ahf5cVdooMAlDRiJOZQNuLqa1Is.jpg,77,2020,2h 10m,The Trial of the Chicago 7
+Brad Bird,"Action,Adventure,Animation,Family",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg,77,2004,1h 55m,The Incredibles
+Christopher Nolan,"Action,Crime,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4MpN4kIEqUjW8OPtOQJXlTdHiJV.jpg,77,2005,2h 20m,Batman Begins
+Thomas Jahn,"Comedy,Crime",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dsY09zCxKDFjfV1oqXFJJpVrHdP.jpg,77,1997,1h 27m,Knockin' on Heaven's Door
+Wong Kar-wai,"Action,Romance,Crime",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yyM9BPdwttK5LKZSLvHae7QPKo1.jpg,77,1997,1h 38m,Fallen Angels
+Matthew Warchus,"Drama,Comedy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/mrITqHNw0XzT7egAPByDuiE3QZf.jpg,77,2014,2h,Pride
+Clint Eastwood,"Thriller,Crime,Drama,Mystery",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hCHVDbo6XJGj3r2i4hVjKhE0GKF.jpg,77,2003,2h 18m,Mystic River
+Takayuki Hamana,"Animation,Fantasy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/k0ThmZQl5nHe4JefC2bXjqtgYp0.jpg,77,2021,1h 19m,The Seven Deadly Sins: Cursed by Light
+Derek Kolstad,"Action,Thriller,Crime",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg,77,2023,2h 50m,John Wick: Chapter 4
+Noah Baumbach,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/91osxUqsq1JC0zJzB1CpAavlWu7.jpg,77,2019,2h 17m,Marriage Story
+Hayao Miyazaki,"Animation,Fantasy,Family",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yp8vEZflGynlEylxEesbYasc06i.jpg,77,2009,1h 40m,Ponyo
+Georges Lautner,"Comedy,Crime",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/1uYCIsMpX7FtWu2xO1YMIAQYvLR.jpg,77,1963,1h 51m,Crooks in Clover
+Karan Johar,"Comedy,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lRl7wrJmkOzMTDVYFSIpUcsIjPQ.jpg,77,2001,3h 29m,Kabhi Khushi Kabhie Gham
+John Landis,"Music,Comedy,Action,Crime",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rhYJKOt6UrQq7JQgLyQcSWW5R86.jpg,77,1980,2h 13m,The Blues Brothers
+Oliver Stone,"Drama,War,Action",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/m3mmFkPQKvPZq5exmh0bDuXlD9T.jpg,77,1987,2h,Platoon
+Tom Hooper,"Drama,History",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/uQ538BfYLDJh3GXlzRZLo0j7PFj.jpg,77,2010,1h 58m,The King's Speech
+Vicky Jenson,"Animation,Comedy,Fantasy,Adventure,Family",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg,77,2001,1h 30m,Shrek
+Tsuneo Kobayashi,"Action,Romance,Animation",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bAQ8O5Uw6FedtlCbJTutenzPVKd.jpg,77,2015,1h 54m,The Last: Naruto the Movie
+John Hughes,"Comedy,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vSqk5BeQ1HvP9wq0rWZyWqiwXeF.jpg,77,1985,1h 38m,The Breakfast Club
+Jean-Luc Godard,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/A0BjScjASfMFgyGI5sU0CwfKh3l.jpg,77,1962,1h 24m,Vivre Sa Vie
+Roberto Benigni,Comedy,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/b7VzoZRB2U3b7vnqCEJA54kowpu.jpg,77,1984,1h 47m,Nothing Left to Do But Cry
+Hugo Gélin,"Drama,Comedy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/aFgtdhuzgI2eqnIVWtRB03x3pnt.jpg,77,2018,1h 58m,Two Is a Family
+Fernando González Molina,"Romance,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nNoMfNPnvEzGADXDkP6eJAP81KB.jpg,77,2010,2h 2m,Three Steps Above Heaven
+Michelangelo Antonioni,"Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/oXoe0Fp92Yw3mMJ9Vq0hPlaMELg.jpg,77,1962,2h 6m,L'Eclisse
+Darius Marder,"Drama,Music",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3178oOJKKPDeQ2legWQvMPpllv.jpg,77,2021,2h,Sound of Metal
+Choi Jae-hoon,"Action,Crime,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5IQqdtTq1wH5YJynx86Ysi4sDVt.jpg,77,2022,1h 35m,The Killer
+David Lynch,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/tT9cMiVDdtlcdZxOoFy3VRmEoKk.jpg,77,2000,1h 52m,The Straight Story
+Danny Boyle,"Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5leCCi7ZF0CawAfM5Qo2ECKPprc.jpg,77,2008,2h,Slumdog Millionaire
+Jay Oliva,"Science Fiction,Action,Animation,Mystery",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kkjTbwV1Xnj8wBL52PjOcXzTbnb.jpg,77,2012,1h 16m,"Batman: The Dark Knight Returns, Part 1"
+Paul Thomas Anderson,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/uq2u8HgtLFJkjNq2kHb2jvipIPT.jpg,77,2000,3h 9m,Magnolia
+Judd Winick,"Science Fiction,Crime,Action,Animation,Mystery",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7lmHqHg1rG9b4U8MjuyQjmJ7Qm0.jpg,77,2010,1h 15m,Batman: Under the Red Hood
+Donn Pearce,"Action,Drama,Crime",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4ykzTiHKLamh3eZJ8orVICtU2Jp.jpg,77,1968,2h 7m,Cool Hand Luke
+Vittorio De Sica,"Drama,Romance,Comedy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/1VVQFXwr4i6QSAoPnCs9UmGTUVw.jpg,77,1964,1h 42m,Marriage Italian Style
+Luchino Visconti,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/riSUxwoK3xjkOgy6YJSvPhi7cO6.jpg,77,1963,3h 6m,The Leopard
+Pier Paolo Pasolini,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/113ts2Bmm5CZ3YJMwfCU9XGFCAf.jpg,77,1961,1h 57m,Accattone
+William Peter Blatty,"Horror,Thriller,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5x0CeVHJI8tcDx8tUUwYHQSNILq.jpg,77,2001,2h 2m,The Exorcist
+Robert L. Baird,"Adventure,Family,Animation,Action,Comedy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2mxS4wUimwlLmI1xp6QW6NSU361.jpg,77,2014,1h 42m,Big Hero 6
+Eugenio Derbez,"Comedy,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4f0qaU7cWmO9kYEkr3QGdA7KNFR.jpg,77,2013,2h 2m,Instructions Not Included
+Alain Resnais,"Drama,History,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/adLWFW0JC8f3wjhnfBnHlf85Poh.jpg,77,1959,1h 32m,Hiroshima Mon Amour
+Jon S. Baird,"Thriller,History,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4F2QwCOYHJJjecSvdOjStuVLkpu.jpg,77,2023,1h 58m,Tetris
+Edward Berger,"Drama,War,Action",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2IRjbi9cADuDMKmHdLK7LaqQDKA.jpg,77,2022,2h 27m,All Quiet on the Western Front
+Gary Trousdale,"Romance,Family,Animation,Fantasy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hUJ0UvQ5tgE2Z9WpfuduVSdiCiU.jpg,77,1992,1h 24m,Beauty and the Beast
+Ken Loach,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nu3WVABXz2W85N6JXTZOT1aWS3b.jpg,78,2016,1h 40m,"I, Daniel Blake"
+Adam Shankman,"Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8lUYMvWdHA0Q0k5F76RQCeCBUkA.jpg,77,2002,1h 41m,A Walk to Remember
+Hong Sung-ho,"Animation,Fantasy,Drama,Family,Comedy,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/MBiKqTsouYqAACLYNDadsjhhC0.jpg,78,2020,1h 32m,Red Shoes and the Seven Dwarfs
+Emir Kusturica,"Comedy,Drama,War",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/h8N6y13t4VusrDdH5PzTkwvBvgN.jpg,78,1995,2h 50m,Underground
+Charlie Chaplin,"Comedy,Crime,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/mUPXIinTQsBdLlDaWiSl7GwQXVs.jpg,77,1947,2h 4m,Monsieur Verdoux
+Mamoru Oshii,"Animation,Fantasy,Mystery",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dcEUGvckbePFzPKhGXnS9T3kZMG.jpg,78,1985,1h 11m,Angel's Egg
+Paul Grimault,"Animation,Family,Fantasy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yDbfVUrb9b0Dkm1TptWtzkujXBk.jpg,78,1980,1h 23m,The King and the Mockingbird
+André Pellenz,Comedy,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2kj8VJEcqcxPmbuIjh5wf6FjMBH.jpg,77,2013,1h 25m,My Mom Is a Character
+Woody Allen,"Comedy,Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jj46Biz1WYQZoVZfXxeT9u4XRrS.jpg,78,1977,1h 33m,Annie Hall
+Quentin Tarantino,"Drama,Mystery,Western",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jIywvdPjia2t3eKYbjVTcwBQlG8.jpg,78,2016,3h 8m,The Hateful Eight
+Jacques Tati,Comedy,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kQOrS0DLUXYsqPMedM2G6NJcJBq.jpg,78,1967,1h 55m,PlayTime
+Dean DeBlois,"Animation,Family,Adventure",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xvx4Yhf0DVH8G4LzNISpMfFBDy2.jpg,78,2019,1h 44m,How to Train Your Dragon: The Hidden World
+Yoji Yamada,"Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bB2M8UF8wc9flfGWkcgkTTf8Mzr.jpg,78,2002,2h 9m,The Twilight Samurai
+Jonah Markowitz,"Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/eYA8KiSnIAbxtoIgg4lpZjB0dfz.jpg,78,2007,1h 29m,Shelter
+David Yates,"Adventure,Fantasy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/iGoXIpQb7Pot00EEdwpwPajheZ5.jpg,78,2010,2h 26m,Harry Potter and the Deathly Hallows: Part 1
+Yeon Sang-ho,"Horror,Thriller,Action,Adventure",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vNVFt6dtcqnI7hqa6LFBUibuFiw.jpg,78,2016,1h 58m,Train to Busan
+Na Hong-jin,"Crime,Thriller,Action",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hy49xJiKN1nakkN1ZmKuOf6vQYR.jpg,78,2008,2h 5m,The Chaser
+James Hawes,"History,Drama,War",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yvnIWt2j8VnDgwKJE2VMiFMa2Qo.jpg,78,2023,1h 49m,One Life
+Guillermo del Toro,"Fantasy,Drama,War",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2VVhikIxoztAXEDQZLOdtBsu6vf.jpg,78,2006,1h 58m,Pan's Labyrinth
+Seth Gordon,Documentary,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xA1F4P4ZYxVA12Aa5mK9R8q4oIc.jpg,78,2008,1h 23m,The King of Kong: A Fistful of Quarters
+Wilson Yip,"Drama,Action,History",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ggTTUXZg7trvAhsVj3eyd65bAnh.jpg,78,2008,1h 46m,Ip Man
+Yoshiaki Kawajiri,"Fantasy,Adventure,Animation,Action",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/qzZEnaXwv4wss2QalEo4Uf9BAwh.jpg,78,1995,1h 34m,Ninja Scroll
+Aisling Walsh,"Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wu9RPdV0uEemFEewJQ6fWwJ9ZcU.jpg,78,2017,1h 55m,Maudie
+Spike Lee,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/63rmSDPahrH7C1gEFYzRuIBAN9W.jpg,78,1989,2h,Do the Right Thing
+Marc Forster,"Comedy,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/130H1gap9lFfiTF9iDrqNIkFvC9.jpg,78,2023,2h 6m,A Man Called Otto
+Steven Spielberg,"Drama,History",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ziosRyziefrmEmAMIswpjQzvAur.jpg,78,1986,2h 34m,The Color Purple
+Cecil B. DeMille,"Drama,History",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/stSpFp2NUJMGhIyndqwBi9WE9y9.jpg,78,1958,3h 40m,The Ten Commandments
+Alfred Hitchcock,"Thriller,Romance,Mystery",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yUjKnpColooH88BFQJwwgNOQ56N.jpg,78,1946,1h 43m,Notorious
+S. S. Rajamouli,"Action,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/u0XUBNQWlOvrh0Gd97ARGpIkL0.jpg,78,2022,3h 5m,RRR
+Tim Burton,"Adventure,Fantasy,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/tjK063yCgaBAluVU72rZ6PKPH2l.jpg,78,2004,2h 5m,Big Fish
+Terry Jones,Comedy,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lSSA64WF0M0BXnjwr2quMh6shCl.jpg,78,1979,1h 34m,Life of Brian
+Robert Zemeckis,"Adventure,Comedy,Science Fiction",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hQq8xZe5uLjFzSBt4LanNP7SQjl.jpg,78,1989,1h 48m,Back to the Future Part II
+Alejandra Márquez Abella,"Drama,History",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kMI3tgxLAZbzGOVlorUBva0kriS.jpg,78,2023,2h 2m,A Million Miles Away
+Rob Reiner,"Drama,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/23Y65uWaVMpqfbZTN3CT0aei4D5.jpg,78,1991,1h 47m,Misery
+Barry Morrow,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/iTNHwO896WKkaoPtpMMS74d8VNi.jpg,78,1989,2h 14m,Rain Man
+Wim Wenders,"Drama,Fantasy,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/iZQs2vUeCzvS1KfZJ6uYNCGJBBV.jpg,78,1988,2h 8m,Wings of Desire
+John Cassavetes,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6EJ4JoTxnH1QmGTE9pPzgtW1cLW.jpg,78,1974,2h 35m,A Woman Under the Influence
+Sam Taylor,"Comedy,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/qNpBbHlptWgFhtGny3KDf7ImkWR.jpg,78,1923,1h 14m,Safety Last!
+Penny Marshall,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9gztZXuHLG6AJ0fgqGd7Q43cWRI.jpg,78,1991,2h,Awakenings
+Destin Daniel Cretton,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/qKnsyaJZLXfiL2JhIJEkpA8C3LU.jpg,78,2013,1h 36m,Short Term 12
+Lars von Trier,"Crime,Drama,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lraVawavIXh5geMlVjpzCw9TGwR.jpg,78,2003,2h 58m,Dogville
+Deniz Gamze Ergüven,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/sXg3JjxCkgWw5B4VVk8lfcYImne.jpg,78,2016,1h 37m,Mustang
+Orson Welles,"Crime,Thriller,Mystery",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/1pvRgmfBaoMczIJBOi9gCOZ4FMC.jpg,78,1958,1h 51m,Touch of Evil
+David Gelb,Documentary,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/qHJTB0oDIFaTHihJBUr4zXlGPDz.jpg,78,2012,1h 22m,Jiro Dreams of Sushi
+Ingmar Bergman,"Fantasy,Drama,Mystery",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/q8jlA3Wc1Z987hNKRFA44g5OugC.jpg,78,1984,3h 8m,Fanny and Alexander
+Atsuko Ishizuka,"Adventure,Animation,Drama,Fantasy,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cCBB6BGRj5nCTaEgogDtkHfjOLK.jpg,78,2017,1h 46m,No Game No Life: Zero
+Michael Haneke,"Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yq8hSg68QcfqKim9iydrVe4ndX3.jpg,78,2012,2h 7m,Amour
+Jeremiah Zagar,"Drama,Comedy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xWic7kPq13oRxYjbGLApXCnc7pz.jpg,78,2022,1h 57m,Hustle
+Jonas Poher Rasmussen,"Documentary,Animation",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vlMIbqOpYG553J1kOJXA7mwQvE6.jpg,78,2022,1h 29m,Flee
+Fabián Bielinsky,"Crime,Thriller,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/tabMRXUTTBmprGax6ON2r9yBN0D.jpg,78,2000,1h 54m,Nine Queens
+Brian De Palma,"Crime,History,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jB8ROzQOr3p4ygSzyPjLhUqCOFu.jpg,78,1987,1h 59m,The Untouchables
+Celine Song,"Drama,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rzO71VFu7CpJMfF5TQNMj0d1lSV.jpg,78,2023,1h 46m,Past Lives
+Yorgos Lanthimos,"Science Fiction,Romance,Comedy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg,78,2024,2h 22m,Poor Things
+Christopher Nolan,"Action,Crime,Drama,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg,78,2012,2h 45m,The Dark Knight Rises
+Florian Henckel von Donnersmarck,"Drama,Romance,History",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fn0Tp9SG0IQ3Nx8iHPYPiseLMWd.jpg,78,2019,3h 9m,Never Look Away
+Richard Kelly,"Fantasy,Drama,Mystery",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fhQoQfejY1hUcwyuLgpBrYs6uFt.jpg,78,2002,1h 54m,Donnie Darko
+Robert Hamer,"Comedy,Crime",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/s5YYPhgxBITADZQ3IGC6jJq6FhR.jpg,77,1949,1h 44m,Kind Hearts and Coronets
+Lin-Manuel Miranda,"Drama,Music",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg,77,2021,1h 55m,"tick, tick... BOOM!"
+Akira Kurosawa,"Fantasy,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/j0NQsYqnqvhTtBj7vhCa9iKT0NA.jpg,77,1990,1h 59m,Dreams
+Agnès Varda,Documentary,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/1NX6NTj9FiiJwEgRUmEifSzE7Na.jpg,77,2017,1h 34m,Faces Places
+Alan J. Pakula,"Drama,History,Mystery,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cPtSHR7D2WGsDBfnC5DxV927hKn.jpg,77,1976,2h 18m,All the President's Men
+Sriram Raghavan,"Crime,Mystery,Thriller,Comedy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dy3K6hNvwE05siGgiLJcEiwgpdO.jpg,77,2018,2h 19m,Andhadhun
+Taika Waititi,"Adventure,Comedy,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hkmz9rxgcweizXNElozGeKwmAJE.jpg,77,2016,1h 41m,Hunt for the Wilderpeople
+Abbas Kiarostami,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cOxExb6ApnXN5NnCZdTYFgkBIYn.jpg,77,1999,1h 39m,Taste of Cherry
+Reinaldo Marcus Green,"Drama,History",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vjpMd1dsEsVBoUhq6iVHXwwFj9n.jpg,77,2022,2h 24m,King Richard
+Peter Benchley,"Horror,Thriller,Adventure",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lxM6kqilAdpdhqUl2biYp5frUxE.jpg,77,1975,2h 4m,Jaws
+Dean DeBlois,"Fantasy,Action,Adventure,Animation,Comedy,Family",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/d13Uj86LdbDLrfDoHR5aDOFYyJC.jpg,77,2014,1h 42m,How to Train Your Dragon 2
+Krzysztof Kieślowski,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/33wsWxzsNstI8N7dvuwzFmj1qBd.jpg,77,1994,1h 38m,Three Colors: Blue
+Joe Russo,"Action,Adventure,Science Fiction",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg,77,2014,2h 16m,Captain America: The Winter Soldier
+Jacques Demy,"Romance,Comedy,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jtxhyGaYhurH6KsjvP1jV3dDypz.jpg,77,1967,2h 6m,The Young Girls of Rochefort
+Vince Marcello,"Comedy,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/mb7wQv0adK3kjOUr9n93mANHhPJ.jpg,77,2020,2h 12m,The Kissing Booth 2
+Hiromasa Yonebayashi,"Fantasy,Animation,Family",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3lSRaSjDp2nkXMQkzzjpRi3035O.jpg,77,2010,1h 34m,The Secret World of Arrietty
+Gregory Hoblit,"Crime,Drama,Mystery,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/qJf2TzE8nRTFbFMPJNW6c8mI0KU.jpg,77,1996,2h 9m,Primal Fear
+Bruce Gowers,Comedy,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/qnNXoflFXeUg692kulMKVJVRzYf.jpg,77,1983,1h 9m,Eddie Murphy: Delirious
+Jan Pinkava,"Animation,Family",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8PdCk3T9EkcKniUviDogWFCXx28.jpg,77,1997,4m,Geri's Game
+Errol Morris,"Crime,Documentary",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4w4BJk3l8y9gYwPPLRs6uPHOmGL.jpg,77,1988,1h 43m,The Thin Blue Line
+Glenn Leopold,"Animation,Mystery,Family,Horror",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7EdvFUGvT5Pn8rUFRKCrdUzNthf.jpg,77,1999,1h 17m,Scooby-Doo on Zombie Island
+Enzo D'Alò,"Family,Animation",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/g3Y72yHncO2Yo3B2PYHLKHNTksW.jpg,77,1998,1h 15m,Lucky and Zorba
+Blake Edwards,"Comedy,Romance,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg,77,1962,1h 55m,Breakfast at Tiffany's
+Roberto Rossellini,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/sdxegsjrrvujXvv2GLPENyDlWDI.jpg,77,1948,1h 12m,"Germany, Year Zero"
+Walter Hill,"Action,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/sjN9IZHmRHZmpxvQYYYFNQ22Pch.jpg,77,1979,1h 34m,The Warriors
+Kaneto Shindō,Horror,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xyPLG53OodhJtvfQEfcmC43l16O.jpg,77,1964,1h 45m,Onibaba
+Marco Bellocchio,"Drama,Crime,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bjb1zKlyw85hYwDXzz2UM6XqjUU.jpg,77,2020,2h 31m,The Traitor
+Peter Hedges,"Romance,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8FxWgsfDNosewo7H65oE4QkOb7g.jpg,77,1994,1h 58m,What's Eating Gilbert Grape
+Peter Stone,"Comedy,Mystery,Romance",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ijJ73UgR6nOqjSP8MO0Z7hawCdm.jpg,77,1963,1h 53m,Charade
+Aaron Horvath,"Animation,Family,Adventure,Fantasy,Comedy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg,77,2023,1h 33m,The Super Mario Bros. Movie
+László Krasznahorkai,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2kSElneXSKmMsGL55k0CbPGqLbu.jpg,77,2011,2h 35m,The Turin Horse
+Takeshi Kitano,"Crime,Drama",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bWIo1nDJnSyGJvVt8bRw8PHBqo4.jpg,77,1998,1h 43m,Fireworks
+Kevin Reynolds,"Adventure,Drama,History",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ifMgDAUXVQLY4DeOu3VTTi55jSP.jpg,77,2002,2h 11m,The Count of Monte Cristo
+Bryan Fogel,Documentary,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/x5azMi1KvZWbBbfjmGqpHNGqjH.jpg,77,2017,2h 1m,Icarus
+Federico Fellini,"Drama,Comedy",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/boqcM6bhQICnNue4pkgmauj9JN3.jpg,77,1953,1h 43m,I Vitelloni
+Kip Andersen,Documentary,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5rn3jsTgqQWPQRDof3eHT3wd500.jpg,77,2014,1h 30m,Cowspiracy: The Sustainability Secret
+César Rodrigues,Comedy,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/eDApDWU6r9zxk9MZLc6rfnBb3vu.jpg,77,2016,1h 36m,My Mom Is a Character 2
+Jan Komasa,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6VZlm8sEwxkE3L5nXxz17QLj1sF.jpg,77,2019,1h 56m,Corpus Christi
+Alfonso Cuarón,Drama,https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dtIIyQyALk57ko5bjac7hi01YQ.jpg,77,2018,2h 15m,Roma
+Raoul Walsh,"Crime,Drama,Thriller",https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4ekAK25fz1FDzRUHuJs171uiVaI.jpg,77,1949,1h 54m,White Heat
